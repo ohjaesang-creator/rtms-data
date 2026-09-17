@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T17:38:44+09:00",
+ "generated_at": "2026-09-17T18:19:28+09:00",
  "period": {
   "from": "202607",
   "to": "202609",
@@ -28,6 +28,29 @@
     "jeonse_median_man": 29150.0,
     "jeonse_ratio_pct": 41.3,
     "gap_man": 41350.0,
+    "monthly": [
+     {
+      "ym": "2026-08",
+      "n": 1,
+      "median_man": 72000.0,
+      "p25_man": 72000.0,
+      "min_man": 72000.0,
+      "jeonse_median_man": 27250.0,
+      "jeonse_ratio_pct": 37.8
+     },
+     {
+      "ym": "2026-09",
+      "n": 3,
+      "median_man": 69000.0,
+      "p25_man": 51000.0,
+      "min_man": 51000.0,
+      "jeonse_median_man": 30000.0,
+      "jeonse_ratio_pct": 43.5
+     }
+    ],
+    "trend_pct": -4.2,
+    "trend_vol_pct": 200.0,
+    "trend_jeonse_pp": 5.7,
     "outlier_note": "2026-09-09 5.10억 16층/중개거래 (중위 대비 -28%)",
     "median_excl_outlier_man": 72000.0,
     "recent": [
@@ -87,6 +110,38 @@
     "jeonse_median_man": 29000.0,
     "jeonse_ratio_pct": 45.7,
     "gap_man": 34500.0,
+    "monthly": [
+     {
+      "ym": "2026-07",
+      "n": 1,
+      "median_man": 63400.0,
+      "p25_man": 63400.0,
+      "min_man": 63400.0,
+      "jeonse_median_man": 28000.0,
+      "jeonse_ratio_pct": 44.2
+     },
+     {
+      "ym": "2026-08",
+      "n": 9,
+      "median_man": 63600.0,
+      "p25_man": 59500.0,
+      "min_man": 58000.0,
+      "jeonse_median_man": 28000.0,
+      "jeonse_ratio_pct": 44.0
+     },
+     {
+      "ym": "2026-09",
+      "n": 3,
+      "median_man": 63500.0,
+      "p25_man": 57000.0,
+      "min_man": 57000.0,
+      "jeonse_median_man": 30000.0,
+      "jeonse_ratio_pct": 47.2
+     }
+    ],
+    "trend_pct": 0.2,
+    "trend_vol_pct": 200.0,
+    "trend_jeonse_pp": 3.0,
     "outlier_note": null,
     "median_excl_outlier_man": null,
     "recent": [
@@ -158,6 +213,38 @@
     "jeonse_median_man": 35000.0,
     "jeonse_ratio_pct": 66.2,
     "gap_man": 17900.0,
+    "monthly": [
+     {
+      "ym": "2026-07",
+      "n": 18,
+      "median_man": 53250.0,
+      "p25_man": 51000.0,
+      "min_man": 47800.0,
+      "jeonse_median_man": 36000.0,
+      "jeonse_ratio_pct": 67.6
+     },
+     {
+      "ym": "2026-08",
+      "n": 15,
+      "median_man": 52700.0,
+      "p25_man": 49700.0,
+      "min_man": 46800.0,
+      "jeonse_median_man": 33500.0,
+      "jeonse_ratio_pct": 63.6
+     },
+     {
+      "ym": "2026-09",
+      "n": 5,
+      "median_man": 54000.0,
+      "p25_man": 48000.0,
+      "min_man": 48000.0,
+      "jeonse_median_man": 35000.0,
+      "jeonse_ratio_pct": 64.8
+     }
+    ],
+    "trend_pct": 1.4,
+    "trend_vol_pct": -72.2,
+    "trend_jeonse_pp": -2.8,
     "outlier_note": null,
     "median_excl_outlier_man": null,
     "recent": [
@@ -229,6 +316,38 @@
     "jeonse_median_man": 51000.0,
     "jeonse_ratio_pct": 59.3,
     "gap_man": 35000.0,
+    "monthly": [
+     {
+      "ym": "2026-07",
+      "n": 667,
+      "median_man": 88000.0,
+      "p25_man": 73000.0,
+      "min_man": 45700.0,
+      "jeonse_median_man": 50610.0,
+      "jeonse_ratio_pct": 57.5
+     },
+     {
+      "ym": "2026-08",
+      "n": 381,
+      "median_man": 85000.0,
+      "p25_man": 72000.0,
+      "min_man": 41800.0,
+      "jeonse_median_man": 54000.0,
+      "jeonse_ratio_pct": 63.5
+     },
+     {
+      "ym": "2026-09",
+      "n": 83,
+      "median_man": 80000.0,
+      "p25_man": 64000.0,
+      "min_man": 32000.0,
+      "jeonse_median_man": 47250.0,
+      "jeonse_ratio_pct": 59.1
+     }
+    ],
+    "trend_pct": -9.1,
+    "trend_vol_pct": -87.6,
+    "trend_jeonse_pp": 1.6,
     "outlier_note": null,
     "median_excl_outlier_man": null,
     "recent": [
@@ -298,6 +417,38 @@
      "jeonse_median_man": 50000.0,
      "jeonse_ratio_pct": 61.2,
      "gap_man": 31750.0,
+     "monthly": [
+      {
+       "ym": "2026-07",
+       "n": 70,
+       "median_man": 84000.0,
+       "p25_man": 72000.0,
+       "min_man": 55500.0,
+       "jeonse_median_man": 50000.0,
+       "jeonse_ratio_pct": 59.5
+      },
+      {
+       "ym": "2026-08",
+       "n": 53,
+       "median_man": 79500.0,
+       "p25_man": 71000.0,
+       "min_man": 54900.0,
+       "jeonse_median_man": 48000.0,
+       "jeonse_ratio_pct": 60.4
+      },
+      {
+       "ym": "2026-09",
+       "n": 17,
+       "median_man": 75000.0,
+       "p25_man": 68500.0,
+       "min_man": 58000.0,
+       "jeonse_median_man": 53123.0,
+       "jeonse_ratio_pct": 70.8
+      }
+     ],
+     "trend_pct": -10.7,
+     "trend_vol_pct": -75.7,
+     "trend_jeonse_pp": 11.3,
      "outlier_note": null,
      "median_excl_outlier_man": null,
      "recent": [
@@ -366,6 +517,38 @@
      "jeonse_median_man": 53750.0,
      "jeonse_ratio_pct": 65.5,
      "gap_man": 28250.0,
+     "monthly": [
+      {
+       "ym": "2026-07",
+       "n": 131,
+       "median_man": 82500.0,
+       "p25_man": 68000.0,
+       "min_man": 51900.0,
+       "jeonse_median_man": 54000.0,
+       "jeonse_ratio_pct": 65.5
+      },
+      {
+       "ym": "2026-08",
+       "n": 89,
+       "median_man": 82000.0,
+       "p25_man": 69500.0,
+       "min_man": 53000.0,
+       "jeonse_median_man": 52500.0,
+       "jeonse_ratio_pct": 64.0
+      },
+      {
+       "ym": "2026-09",
+       "n": 9,
+       "median_man": 78500.0,
+       "p25_man": 58000.0,
+       "min_man": 56500.0,
+       "jeonse_median_man": 54825.0,
+       "jeonse_ratio_pct": 69.8
+      }
+     ],
+     "trend_pct": -4.8,
+     "trend_vol_pct": -93.1,
+     "trend_jeonse_pp": 4.3,
      "outlier_note": null,
      "median_excl_outlier_man": null,
      "recent": [
@@ -434,6 +617,38 @@
      "jeonse_median_man": 50000.0,
      "jeonse_ratio_pct": 60.4,
      "gap_man": 32750.0,
+     "monthly": [
+      {
+       "ym": "2026-07",
+       "n": 47,
+       "median_man": 82500.0,
+       "p25_man": 69000.0,
+       "min_man": 53750.0,
+       "jeonse_median_man": 48000.0,
+       "jeonse_ratio_pct": 58.2
+      },
+      {
+       "ym": "2026-08",
+       "n": 31,
+       "median_man": 84000.0,
+       "p25_man": 62800.0,
+       "min_man": 54900.0,
+       "jeonse_median_man": 50700.0,
+       "jeonse_ratio_pct": 60.4
+      },
+      {
+       "ym": "2026-09",
+       "n": 8,
+       "median_man": 69500.0,
+       "p25_man": 49000.0,
+       "min_man": 46000.0,
+       "jeonse_median_man": 55000.0,
+       "jeonse_ratio_pct": 79.1
+      }
+     ],
+     "trend_pct": -15.8,
+     "trend_vol_pct": -83.0,
+     "trend_jeonse_pp": 20.9,
      "outlier_note": null,
      "median_excl_outlier_man": null,
      "recent": [
@@ -502,6 +717,38 @@
      "jeonse_median_man": 50000.0,
      "jeonse_ratio_pct": 60.4,
      "gap_man": 32750.0,
+     "monthly": [
+      {
+       "ym": "2026-07",
+       "n": 116,
+       "median_man": 82500.0,
+       "p25_man": 71000.0,
+       "min_man": 46500.0,
+       "jeonse_median_man": 47125.0,
+       "jeonse_ratio_pct": 57.1
+      },
+      {
+       "ym": "2026-08",
+       "n": 53,
+       "median_man": 85000.0,
+       "p25_man": 73800.0,
+       "min_man": 48000.0,
+       "jeonse_median_man": 51725.0,
+       "jeonse_ratio_pct": 60.9
+      },
+      {
+       "ym": "2026-09",
+       "n": 15,
+       "median_man": 79500.0,
+       "p25_man": 47000.0,
+       "min_man": 40000.0,
+       "jeonse_median_man": 49500.0,
+       "jeonse_ratio_pct": 62.3
+      }
+     ],
+     "trend_pct": -3.6,
+     "trend_vol_pct": -87.1,
+     "trend_jeonse_pp": 5.2,
      "outlier_note": null,
      "median_excl_outlier_man": null,
      "recent": [
@@ -570,6 +817,38 @@
      "jeonse_median_man": 41340.0,
      "jeonse_ratio_pct": 43.7,
      "gap_man": 53160.0,
+     "monthly": [
+      {
+       "ym": "2026-07",
+       "n": 126,
+       "median_man": 95400.0,
+       "p25_man": 73000.0,
+       "min_man": 45700.0,
+       "jeonse_median_man": 44550.0,
+       "jeonse_ratio_pct": 46.7
+      },
+      {
+       "ym": "2026-08",
+       "n": 68,
+       "median_man": 94000.0,
+       "p25_man": 73000.0,
+       "min_man": 41800.0,
+       "jeonse_median_man": 50000.0,
+       "jeonse_ratio_pct": 53.2
+      },
+      {
+       "ym": "2026-09",
+       "n": 13,
+       "median_man": 88000.0,
+       "p25_man": 50000.0,
+       "min_man": 34000.0,
+       "jeonse_median_man": 21748.0,
+       "jeonse_ratio_pct": 24.7
+      }
+     ],
+     "trend_pct": -7.8,
+     "trend_vol_pct": -89.7,
+     "trend_jeonse_pp": -22.0,
      "outlier_note": null,
      "median_excl_outlier_man": null,
      "recent": [
@@ -638,6 +917,38 @@
      "jeonse_median_man": 58000.0,
      "jeonse_ratio_pct": 57.3,
      "gap_man": 43150.0,
+     "monthly": [
+      {
+       "ym": "2026-07",
+       "n": 65,
+       "median_man": 107000.0,
+       "p25_man": 76000.0,
+       "min_man": 53000.0,
+       "jeonse_median_man": 55650.0,
+       "jeonse_ratio_pct": 52.0
+      },
+      {
+       "ym": "2026-08",
+       "n": 32,
+       "median_man": 99500.0,
+       "p25_man": 72000.0,
+       "min_man": 52000.0,
+       "jeonse_median_man": 60225.0,
+       "jeonse_ratio_pct": 60.5
+      },
+      {
+       "ym": "2026-09",
+       "n": 9,
+       "median_man": 81500.0,
+       "p25_man": 59000.0,
+       "min_man": 57000.0,
+       "jeonse_median_man": 65000.0,
+       "jeonse_ratio_pct": 79.8
+      }
+     ],
+     "trend_pct": -23.8,
+     "trend_vol_pct": -86.2,
+     "trend_jeonse_pp": 27.8,
      "outlier_note": null,
      "median_excl_outlier_man": null,
      "recent": [
@@ -706,6 +1017,38 @@
      "jeonse_median_man": 61925.0,
      "jeonse_ratio_pct": 60.7,
      "gap_man": 40075.0,
+     "monthly": [
+      {
+       "ym": "2026-07",
+       "n": 112,
+       "median_man": 102250.0,
+       "p25_man": 84800.0,
+       "min_man": 50500.0,
+       "jeonse_median_man": 63000.0,
+       "jeonse_ratio_pct": 61.6
+      },
+      {
+       "ym": "2026-08",
+       "n": 55,
+       "median_man": 104500.0,
+       "p25_man": 76100.0,
+       "min_man": 55700.0,
+       "jeonse_median_man": 60900.0,
+       "jeonse_ratio_pct": 58.3
+      },
+      {
+       "ym": "2026-09",
+       "n": 12,
+       "median_man": 95750.0,
+       "p25_man": 64000.0,
+       "min_man": 32000.0,
+       "jeonse_median_man": 60687.5,
+       "jeonse_ratio_pct": 63.4
+      }
+     ],
+     "trend_pct": -6.4,
+     "trend_vol_pct": -89.3,
+     "trend_jeonse_pp": 1.8,
      "outlier_note": null,
      "median_excl_outlier_man": null,
      "recent": [
@@ -778,6 +1121,38 @@
     "jeonse_median_man": 32000.0,
     "jeonse_ratio_pct": 65.3,
     "gap_man": 17000.0,
+    "monthly": [
+     {
+      "ym": "2026-07",
+      "n": 2076,
+      "median_man": 51000.0,
+      "p25_man": 37300.0,
+      "min_man": 12500.0,
+      "jeonse_median_man": 33000.0,
+      "jeonse_ratio_pct": 64.7
+     },
+     {
+      "ym": "2026-08",
+      "n": 1746,
+      "median_man": 48000.0,
+      "p25_man": 35400.0,
+      "min_man": 12200.0,
+      "jeonse_median_man": 33600.0,
+      "jeonse_ratio_pct": 70.0
+     },
+     {
+      "ym": "2026-09",
+      "n": 658,
+      "median_man": 45600.0,
+      "p25_man": 34500.0,
+      "min_man": 14000.0,
+      "jeonse_median_man": 30211.0,
+      "jeonse_ratio_pct": 66.3
+     }
+    ],
+    "trend_pct": -10.6,
+    "trend_vol_pct": -68.3,
+    "trend_jeonse_pp": 1.6,
     "outlier_note": null,
     "median_excl_outlier_man": null,
     "recent": [
@@ -847,6 +1222,38 @@
      "jeonse_median_man": 25000.0,
      "jeonse_ratio_pct": 65.8,
      "gap_man": 13000.0,
+     "monthly": [
+      {
+       "ym": "2026-07",
+       "n": 285,
+       "median_man": 40000.0,
+       "p25_man": 30000.0,
+       "min_man": 12500.0,
+       "jeonse_median_man": 25000.0,
+       "jeonse_ratio_pct": 62.5
+      },
+      {
+       "ym": "2026-08",
+       "n": 221,
+       "median_man": 35000.0,
+       "p25_man": 25200.0,
+       "min_man": 12200.0,
+       "jeonse_median_man": 24750.0,
+       "jeonse_ratio_pct": 70.7
+      },
+      {
+       "ym": "2026-09",
+       "n": 93,
+       "median_man": 37000.0,
+       "p25_man": 27000.0,
+       "min_man": 16000.0,
+       "jeonse_median_man": 26500.0,
+       "jeonse_ratio_pct": 71.6
+      }
+     ],
+     "trend_pct": -7.5,
+     "trend_vol_pct": -67.4,
+     "trend_jeonse_pp": 9.1,
      "outlier_note": null,
      "median_excl_outlier_man": null,
      "recent": [
@@ -915,6 +1322,38 @@
      "jeonse_median_man": 30000.0,
      "jeonse_ratio_pct": 76.0,
      "gap_man": 9450.0,
+     "monthly": [
+      {
+       "ym": "2026-07",
+       "n": 200,
+       "median_man": 45125.0,
+       "p25_man": 31000.0,
+       "min_man": 15500.0,
+       "jeonse_median_man": 28675.0,
+       "jeonse_ratio_pct": 63.5
+      },
+      {
+       "ym": "2026-08",
+       "n": 181,
+       "median_man": 37500.0,
+       "p25_man": 27700.0,
+       "min_man": 15000.0,
+       "jeonse_median_man": 31000.0,
+       "jeonse_ratio_pct": 82.7
+      },
+      {
+       "ym": "2026-09",
+       "n": 77,
+       "median_man": 38300.0,
+       "p25_man": 27300.0,
+       "min_man": 16700.0,
+       "jeonse_median_man": 31250.0,
+       "jeonse_ratio_pct": 81.6
+      }
+     ],
+     "trend_pct": -15.1,
+     "trend_vol_pct": -61.5,
+     "trend_jeonse_pp": 18.1,
      "outlier_note": null,
      "median_excl_outlier_man": null,
      "recent": [
@@ -983,6 +1422,38 @@
      "jeonse_median_man": 32000.0,
      "jeonse_ratio_pct": 77.9,
      "gap_man": 9100.0,
+     "monthly": [
+      {
+       "ym": "2026-07",
+       "n": 66,
+       "median_man": 44900.0,
+       "p25_man": 33000.0,
+       "min_man": 25000.0,
+       "jeonse_median_man": 32000.0,
+       "jeonse_ratio_pct": 71.3
+      },
+      {
+       "ym": "2026-08",
+       "n": 67,
+       "median_man": 41000.0,
+       "p25_man": 33500.0,
+       "min_man": 25000.0,
+       "jeonse_median_man": 33000.0,
+       "jeonse_ratio_pct": 80.5
+      },
+      {
+       "ym": "2026-09",
+       "n": 37,
+       "median_man": 39800.0,
+       "p25_man": 31300.0,
+       "min_man": 21000.0,
+       "jeonse_median_man": 28300.0,
+       "jeonse_ratio_pct": 71.1
+      }
+     ],
+     "trend_pct": -11.4,
+     "trend_vol_pct": -43.9,
+     "trend_jeonse_pp": -0.2,
      "outlier_note": null,
      "median_excl_outlier_man": null,
      "recent": [
@@ -1051,6 +1522,38 @@
      "jeonse_median_man": 30000.0,
      "jeonse_ratio_pct": 71.6,
      "gap_man": 11900.0,
+     "monthly": [
+      {
+       "ym": "2026-07",
+       "n": 171,
+       "median_man": 41800.0,
+       "p25_man": 34850.0,
+       "min_man": 19600.0,
+       "jeonse_median_man": 29700.0,
+       "jeonse_ratio_pct": 71.1
+      },
+      {
+       "ym": "2026-08",
+       "n": 152,
+       "median_man": 42850.0,
+       "p25_man": 35000.0,
+       "min_man": 20000.0,
+       "jeonse_median_man": 30000.0,
+       "jeonse_ratio_pct": 70.0
+      },
+      {
+       "ym": "2026-09",
+       "n": 48,
+       "median_man": 37500.0,
+       "p25_man": 33800.0,
+       "min_man": 14000.0,
+       "jeonse_median_man": 30000.0,
+       "jeonse_ratio_pct": 80.0
+      }
+     ],
+     "trend_pct": -10.3,
+     "trend_vol_pct": -71.9,
+     "trend_jeonse_pp": 8.9,
      "outlier_note": null,
      "median_excl_outlier_man": null,
      "recent": [
@@ -1119,6 +1622,38 @@
      "jeonse_median_man": 33000.0,
      "jeonse_ratio_pct": 75.0,
      "gap_man": 11000.0,
+     "monthly": [
+      {
+       "ym": "2026-07",
+       "n": 166,
+       "median_man": 44250.0,
+       "p25_man": 32000.0,
+       "min_man": 18000.0,
+       "jeonse_median_man": 33000.0,
+       "jeonse_ratio_pct": 74.6
+      },
+      {
+       "ym": "2026-08",
+       "n": 135,
+       "median_man": 42000.0,
+       "p25_man": 30000.0,
+       "min_man": 17900.0,
+       "jeonse_median_man": 32000.0,
+       "jeonse_ratio_pct": 76.2
+      },
+      {
+       "ym": "2026-09",
+       "n": 64,
+       "median_man": 44425.0,
+       "p25_man": 31500.0,
+       "min_man": 18000.0,
+       "jeonse_median_man": 36025.0,
+       "jeonse_ratio_pct": 81.1
+      }
+     ],
+     "trend_pct": 0.4,
+     "trend_vol_pct": -61.4,
+     "trend_jeonse_pp": 6.5,
      "outlier_note": null,
      "median_excl_outlier_man": null,
      "recent": [
@@ -1187,6 +1722,38 @@
      "jeonse_median_man": 34000.0,
      "jeonse_ratio_pct": 73.9,
      "gap_man": 12000.0,
+     "monthly": [
+      {
+       "ym": "2026-07",
+       "n": 163,
+       "median_man": 46800.0,
+       "p25_man": 40500.0,
+       "min_man": 21000.0,
+       "jeonse_median_man": 33600.0,
+       "jeonse_ratio_pct": 71.8
+      },
+      {
+       "ym": "2026-08",
+       "n": 160,
+       "median_man": 46100.0,
+       "p25_man": 40000.0,
+       "min_man": 24500.0,
+       "jeonse_median_man": 34125.0,
+       "jeonse_ratio_pct": 74.0
+      },
+      {
+       "ym": "2026-09",
+       "n": 50,
+       "median_man": 42900.0,
+       "p25_man": 39000.0,
+       "min_man": 25000.0,
+       "jeonse_median_man": 33000.0,
+       "jeonse_ratio_pct": 76.9
+      }
+     ],
+     "trend_pct": -8.3,
+     "trend_vol_pct": -69.3,
+     "trend_jeonse_pp": 5.1,
      "outlier_note": null,
      "median_excl_outlier_man": null,
      "recent": [
@@ -1255,6 +1822,38 @@
      "jeonse_median_man": 30211.0,
      "jeonse_ratio_pct": 60.4,
      "gap_man": 19789.0,
+     "monthly": [
+      {
+       "ym": "2026-07",
+       "n": 487,
+       "median_man": 54000.0,
+       "p25_man": 41000.0,
+       "min_man": 18000.0,
+       "jeonse_median_man": 36700.0,
+       "jeonse_ratio_pct": 68.0
+      },
+      {
+       "ym": "2026-08",
+       "n": 367,
+       "median_man": 48500.0,
+       "p25_man": 40000.0,
+       "min_man": 20000.0,
+       "jeonse_median_man": 34500.0,
+       "jeonse_ratio_pct": 71.1
+      },
+      {
+       "ym": "2026-09",
+       "n": 110,
+       "median_man": 48100.0,
+       "p25_man": 39000.0,
+       "min_man": 20000.0,
+       "jeonse_median_man": 30211.0,
+       "jeonse_ratio_pct": 62.8
+      }
+     ],
+     "trend_pct": -10.9,
+     "trend_vol_pct": -77.4,
+     "trend_jeonse_pp": -5.2,
      "outlier_note": null,
      "median_excl_outlier_man": null,
      "recent": [
@@ -1323,6 +1922,38 @@
      "jeonse_median_man": 43100.0,
      "jeonse_ratio_pct": 78.9,
      "gap_man": 11500.0,
+     "monthly": [
+      {
+       "ym": "2026-07",
+       "n": 78,
+       "median_man": 56000.0,
+       "p25_man": 50700.0,
+       "min_man": 37000.0,
+       "jeonse_median_man": 43150.0,
+       "jeonse_ratio_pct": 77.1
+      },
+      {
+       "ym": "2026-08",
+       "n": 67,
+       "median_man": 53000.0,
+       "p25_man": 49000.0,
+       "min_man": 35000.0,
+       "jeonse_median_man": 43000.0,
+       "jeonse_ratio_pct": 81.1
+      },
+      {
+       "ym": "2026-09",
+       "n": 21,
+       "median_man": 58000.0,
+       "p25_man": 50000.0,
+       "min_man": 43500.0,
+       "jeonse_median_man": 47000.0,
+       "jeonse_ratio_pct": 81.0
+      }
+     ],
+     "trend_pct": 3.6,
+     "trend_vol_pct": -73.1,
+     "trend_jeonse_pp": 3.9,
      "outlier_note": null,
      "median_excl_outlier_man": null,
      "recent": [
@@ -1391,6 +2022,38 @@
      "jeonse_median_man": 35000.0,
      "jeonse_ratio_pct": 63.6,
      "gap_man": 20000.0,
+     "monthly": [
+      {
+       "ym": "2026-07",
+       "n": 225,
+       "median_man": 55400.0,
+       "p25_man": 39500.0,
+       "min_man": 19000.0,
+       "jeonse_median_man": 35000.0,
+       "jeonse_ratio_pct": 63.2
+      },
+      {
+       "ym": "2026-08",
+       "n": 185,
+       "median_man": 54800.0,
+       "p25_man": 38700.0,
+       "min_man": 21000.0,
+       "jeonse_median_man": 34575.0,
+       "jeonse_ratio_pct": 63.1
+      },
+      {
+       "ym": "2026-09",
+       "n": 74,
+       "median_man": 55250.0,
+       "p25_man": 46000.0,
+       "min_man": 23000.0,
+       "jeonse_median_man": 35850.0,
+       "jeonse_ratio_pct": 64.9
+      }
+     ],
+     "trend_pct": -0.3,
+     "trend_vol_pct": -67.1,
+     "trend_jeonse_pp": 1.7,
      "outlier_note": null,
      "median_excl_outlier_man": null,
      "recent": [
@@ -1459,6 +2122,38 @@
      "jeonse_median_man": 42000.0,
      "jeonse_ratio_pct": 74.6,
      "gap_man": 14300.0,
+     "monthly": [
+      {
+       "ym": "2026-07",
+       "n": 67,
+       "median_man": 59000.0,
+       "p25_man": 43000.0,
+       "min_man": 32000.0,
+       "jeonse_median_man": 41000.0,
+       "jeonse_ratio_pct": 69.5
+      },
+      {
+       "ym": "2026-08",
+       "n": 49,
+       "median_man": 50300.0,
+       "p25_man": 37500.0,
+       "min_man": 23000.0,
+       "jeonse_median_man": 43989.0,
+       "jeonse_ratio_pct": 87.5
+      },
+      {
+       "ym": "2026-09",
+       "n": 27,
+       "median_man": 63800.0,
+       "p25_man": 45300.0,
+       "min_man": 29000.0,
+       "jeonse_median_man": 42750.0,
+       "jeonse_ratio_pct": 67.0
+      }
+     ],
+     "trend_pct": 8.1,
+     "trend_vol_pct": -59.7,
+     "trend_jeonse_pp": -2.5,
      "outlier_note": null,
      "median_excl_outlier_man": null,
      "recent": [
@@ -1527,6 +2222,38 @@
      "jeonse_median_man": 46894.0,
      "jeonse_ratio_pct": 64.4,
      "gap_man": 25906.0,
+     "monthly": [
+      {
+       "ym": "2026-07",
+       "n": 168,
+       "median_man": 75000.0,
+       "p25_man": 58500.0,
+       "min_man": 26000.0,
+       "jeonse_median_man": 48000.0,
+       "jeonse_ratio_pct": 64.0
+      },
+      {
+       "ym": "2026-08",
+       "n": 162,
+       "median_man": 72900.0,
+       "p25_man": 53500.0,
+       "min_man": 25000.0,
+       "jeonse_median_man": 45000.0,
+       "jeonse_ratio_pct": 61.7
+      },
+      {
+       "ym": "2026-09",
+       "n": 57,
+       "median_man": 58900.0,
+       "p25_man": 48500.0,
+       "min_man": 26000.0,
+       "jeonse_median_man": 46000.0,
+       "jeonse_ratio_pct": 78.1
+      }
+     ],
+     "trend_pct": -21.5,
+     "trend_vol_pct": -66.1,
+     "trend_jeonse_pp": 14.1,
      "outlier_note": null,
      "median_excl_outlier_man": null,
      "recent": [
