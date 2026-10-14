@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T10:33:55+09:00",
+ "generated_at": "2026-10-14T10:54:50+09:00",
  "status": "OK",
  "period": {
   "from": "202605",
@@ -100,7 +100,7 @@
     "max_man": 72000,
     "p25_man": 70500.0,
     "p75_man": 72000.0,
-    "rent_count": 9,
+    "rent_count": 10,
     "rent_median_man": 30000.0,
     "jeonse_ratio_pct": 41.7,
     "jeonse_ratio_pooled_warning": null,
@@ -197,8 +197,8 @@
       "min_man": null,
       "max_man": null,
       "p25_man": null,
-      "rent_count": 0,
-      "rent_median_man": null,
+      "rent_count": 1,
+      "rent_median_man": 30000.0,
       "jeonse_ratio_pct": null,
       "small_sample": true
      }
@@ -348,13 +348,13 @@
    },
    "peers": {
     "label": "도램마을 인접단지(11·13·15 등)",
-    "count": 64,
+    "count": 66,
     "small_sample": false,
     "median_man": 63800.0,
     "min_man": 44000,
     "max_man": 95900,
-    "p25_man": 58750.0,
-    "p75_man": 67350.0,
+    "p25_man": 58250.0,
+    "p75_man": 67250.0,
     "rent_count": 106,
     "rent_median_man": 29200.0,
     "jeonse_ratio_pct": 45.8,
@@ -376,7 +376,7 @@
      54230,
      57420
     ],
-    "unregistered_count": 35,
+    "unregistered_count": 37,
     "corporate_deal_count": 0,
     "monthly": [
      {
@@ -447,15 +447,15 @@
      {
       "month": "202610",
       "complete": false,
-      "count": 3,
-      "median_man": 68500.0,
-      "min_man": 56700,
+      "count": 5,
+      "median_man": 66500.0,
+      "min_man": 45500,
       "max_man": 70000,
-      "p25_man": 62600.0,
+      "p25_man": 56700.0,
       "rent_count": 9,
       "rent_median_man": 30000.0,
-      "jeonse_ratio_pct": 43.8,
-      "small_sample": true
+      "jeonse_ratio_pct": 45.1,
+      "small_sample": false
      }
     ],
     "trend": {
@@ -1549,6 +1549,23 @@
       "land_leasehold": "N"
      },
      {
+      "date": "2026-10-06",
+      "ym": "202610",
+      "apt": "가온마을1단지(힐스테이트)",
+      "dong": "다정동",
+      "area_m2": 84.975,
+      "floor": "26",
+      "price_man": 66500,
+      "deal_type": "중개거래",
+      "build_year": "2018",
+      "dong_bldg": "",
+      "registered": false,
+      "rgst_date": "",
+      "seller_type": "개인",
+      "buyer_type": "개인",
+      "land_leasehold": "N"
+     },
+     {
       "date": "2026-10-07",
       "ym": "202610",
       "apt": "가온마을1단지(힐스테이트)",
@@ -1564,19 +1581,36 @@
       "seller_type": "개인",
       "buyer_type": "개인",
       "land_leasehold": "N"
+     },
+     {
+      "date": "2026-10-13",
+      "ym": "202610",
+      "apt": "현대힐스테이트(도램마을15단지)",
+      "dong": "도담동",
+      "area_m2": 84.9159,
+      "floor": "19",
+      "price_man": 45500,
+      "deal_type": "직거래",
+      "build_year": "2014",
+      "dong_bldg": "",
+      "registered": false,
+      "rgst_date": "",
+      "seller_type": "개인",
+      "buyer_type": "개인",
+      "land_leasehold": "N"
      }
     ]
    },
    "all_84": {
     "label": "세종시 전체 84㎡대",
-    "count": 739,
+    "count": 751,
     "small_sample": false,
     "median_man": 59000.0,
     "min_man": 13300,
     "max_man": 126000,
     "p25_man": 49000.0,
     "p75_man": 69000.0,
-    "rent_count": 1241,
+    "rent_count": 1251,
     "rent_median_man": 26500.0,
     "jeonse_ratio_pct": 44.9,
     "jeonse_ratio_pooled_warning": null,
@@ -1597,7 +1631,7 @@
      50150,
      53100
     ],
-    "unregistered_count": 362,
+    "unregistered_count": 373,
     "corporate_deal_count": 6,
     "monthly": [
      {
@@ -1655,27 +1689,27 @@
      {
       "month": "202609",
       "complete": false,
-      "count": 180,
-      "median_man": 61250.0,
+      "count": 183,
+      "median_man": 61500.0,
       "min_man": 20800,
       "max_man": 119000,
       "p25_man": 52000.0,
-      "rent_count": 198,
+      "rent_count": 199,
       "rent_median_man": 27000.0,
-      "jeonse_ratio_pct": 44.1,
+      "jeonse_ratio_pct": 43.9,
       "small_sample": false
      },
      {
       "month": "202610",
       "complete": false,
-      "count": 38,
+      "count": 47,
       "median_man": 58000.0,
       "min_man": 16200,
-      "max_man": 109000,
-      "p25_man": 47550.0,
-      "rent_count": 79,
-      "rent_median_man": 26000.0,
-      "jeonse_ratio_pct": 44.8,
+      "max_man": 110000,
+      "p25_man": 46700.0,
+      "rent_count": 88,
+      "rent_median_man": 26100.0,
+      "jeonse_ratio_pct": 45.0,
       "small_sample": false
      }
     ],
@@ -9664,9 +9698,9 @@
       "price_man": 27500,
       "deal_type": "중개거래",
       "build_year": "2013",
-      "dong_bldg": "",
-      "registered": false,
-      "rgst_date": "",
+      "dong_bldg": "102",
+      "registered": true,
+      "rgst_date": "26.10.07",
       "seller_type": "개인",
       "buyer_type": "개인",
       "land_leasehold": "N"
@@ -12394,6 +12428,23 @@
      {
       "date": "2026-09-18",
       "ym": "202609",
+      "apt": "범지기마을 4단지",
+      "dong": "아름동",
+      "area_m2": 84.8568,
+      "floor": "16",
+      "price_man": 53500,
+      "deal_type": "직거래",
+      "build_year": "2014",
+      "dong_bldg": "",
+      "registered": false,
+      "rgst_date": "",
+      "seller_type": "개인",
+      "buyer_type": "개인",
+      "land_leasehold": "N"
+     },
+     {
+      "date": "2026-09-18",
+      "ym": "202609",
       "apt": "가재마을6단지",
       "dong": "종촌동",
       "area_m2": 84.6799,
@@ -12836,6 +12887,23 @@
      {
       "date": "2026-09-20",
       "ym": "202609",
+      "apt": "새뜸마을13단지(트리쉐이드)",
+      "dong": "새롬동",
+      "area_m2": 84.934,
+      "floor": "8",
+      "price_man": 86700,
+      "deal_type": "중개거래",
+      "build_year": "2019",
+      "dong_bldg": "",
+      "registered": false,
+      "rgst_date": "",
+      "seller_type": "개인",
+      "buyer_type": "개인",
+      "land_leasehold": "N"
+     },
+     {
+      "date": "2026-09-20",
+      "ym": "202609",
       "apt": "도램마을20단지(에듀파크)",
       "dong": "도담동",
       "area_m2": 84.9603,
@@ -12843,6 +12911,23 @@
       "price_man": 54500,
       "deal_type": "중개거래",
       "build_year": "2014",
+      "dong_bldg": "",
+      "registered": false,
+      "rgst_date": "",
+      "seller_type": "개인",
+      "buyer_type": "개인",
+      "land_leasehold": "N"
+     },
+     {
+      "date": "2026-09-20",
+      "ym": "202609",
+      "apt": "새뜸마을7단지(투머로우시티)",
+      "dong": "새롬동",
+      "area_m2": 84.86,
+      "floor": "15",
+      "price_man": 62500,
+      "deal_type": "중개거래",
+      "build_year": "2017",
       "dong_bldg": "",
       "registered": false,
       "rgst_date": "",
@@ -13635,6 +13720,23 @@
      {
       "date": "2026-10-01",
       "ym": "202610",
+      "apt": "나릿재마을3단지",
+      "dong": "나성동",
+      "area_m2": 84.1711,
+      "floor": "17",
+      "price_man": 110000,
+      "deal_type": "중개거래",
+      "build_year": "2021",
+      "dong_bldg": "",
+      "registered": false,
+      "rgst_date": "",
+      "seller_type": "개인",
+      "buyer_type": "개인",
+      "land_leasehold": "N"
+     },
+     {
+      "date": "2026-10-01",
+      "ym": "202610",
       "apt": "이지더원(가락마을10단지)",
       "dong": "고운동",
       "area_m2": 84.9864,
@@ -13710,6 +13812,23 @@
       "price_man": 80500,
       "deal_type": "중개거래",
       "build_year": "2017",
+      "dong_bldg": "",
+      "registered": false,
+      "rgst_date": "",
+      "seller_type": "개인",
+      "buyer_type": "개인",
+      "land_leasehold": "N"
+     },
+     {
+      "date": "2026-10-03",
+      "ym": "202610",
+      "apt": "신성연기미소지움",
+      "dong": "금남면 용포리",
+      "area_m2": 84.8768,
+      "floor": "14",
+      "price_man": 37300,
+      "deal_type": "중개거래",
+      "build_year": "2007",
       "dong_bldg": "",
       "registered": false,
       "rgst_date": "",
@@ -14060,6 +14179,23 @@
      {
       "date": "2026-10-06",
       "ym": "202610",
+      "apt": "가온마을1단지(힐스테이트)",
+      "dong": "다정동",
+      "area_m2": 84.975,
+      "floor": "26",
+      "price_man": 66500,
+      "deal_type": "중개거래",
+      "build_year": "2018",
+      "dong_bldg": "",
+      "registered": false,
+      "rgst_date": "",
+      "seller_type": "개인",
+      "buyer_type": "개인",
+      "land_leasehold": "N"
+     },
+     {
+      "date": "2026-10-06",
+      "ym": "202610",
       "apt": "다원파크리안",
       "dong": "조치원읍 남리",
       "area_m2": 83.256,
@@ -14143,6 +14279,23 @@
       "land_leasehold": "N"
      },
      {
+      "date": "2026-10-08",
+      "ym": "202610",
+      "apt": "가재마을7단지(중흥S클래스센터파크1차)",
+      "dong": "종촌동",
+      "area_m2": 84.9941,
+      "floor": "17",
+      "price_man": 58500,
+      "deal_type": "중개거래",
+      "build_year": "2014",
+      "dong_bldg": "",
+      "registered": false,
+      "rgst_date": "",
+      "seller_type": "개인",
+      "buyer_type": "개인",
+      "land_leasehold": "N"
+     },
+     {
       "date": "2026-10-09",
       "ym": "202610",
       "apt": "다원파크리안",
@@ -14211,6 +14364,23 @@
       "land_leasehold": "N"
      },
      {
+      "date": "2026-10-09",
+      "ym": "202610",
+      "apt": "나릿재마을6단지",
+      "dong": "나성동",
+      "area_m2": 84.905,
+      "floor": "11",
+      "price_man": 102000,
+      "deal_type": "중개거래",
+      "build_year": "2021",
+      "dong_bldg": "",
+      "registered": false,
+      "rgst_date": "",
+      "seller_type": "개인",
+      "buyer_type": "개인",
+      "land_leasehold": "N"
+     },
+     {
       "date": "2026-10-10",
       "ym": "202610",
       "apt": "나릿재마을6단지",
@@ -14245,6 +14415,23 @@
       "land_leasehold": "N"
      },
      {
+      "date": "2026-10-10",
+      "ym": "202610",
+      "apt": "해들마을4단지",
+      "dong": "대평동",
+      "area_m2": 84.9916,
+      "floor": "5",
+      "price_man": 62000,
+      "deal_type": "중개거래",
+      "build_year": "2018",
+      "dong_bldg": "",
+      "registered": false,
+      "rgst_date": "",
+      "seller_type": "개인",
+      "buyer_type": "개인",
+      "land_leasehold": "N"
+     },
+     {
       "date": "2026-10-11",
       "ym": "202610",
       "apt": "새샘마을1단지",
@@ -14254,6 +14441,57 @@
       "price_man": 59000,
       "deal_type": "중개거래",
       "build_year": "2018",
+      "dong_bldg": "",
+      "registered": false,
+      "rgst_date": "",
+      "seller_type": "개인",
+      "buyer_type": "개인",
+      "land_leasehold": "N"
+     },
+     {
+      "date": "2026-10-12",
+      "ym": "202610",
+      "apt": "새뜸마을1단지(메이저시티)",
+      "dong": "새롬동",
+      "area_m2": 84.8892,
+      "floor": "6",
+      "price_man": 65000,
+      "deal_type": "중개거래",
+      "build_year": "2017",
+      "dong_bldg": "",
+      "registered": false,
+      "rgst_date": "",
+      "seller_type": "개인",
+      "buyer_type": "개인",
+      "land_leasehold": "N"
+     },
+     {
+      "date": "2026-10-13",
+      "ym": "202610",
+      "apt": "현대힐스테이트(도램마을15단지)",
+      "dong": "도담동",
+      "area_m2": 84.9159,
+      "floor": "19",
+      "price_man": 45500,
+      "deal_type": "직거래",
+      "build_year": "2014",
+      "dong_bldg": "",
+      "registered": false,
+      "rgst_date": "",
+      "seller_type": "개인",
+      "buyer_type": "개인",
+      "land_leasehold": "N"
+     },
+     {
+      "date": "2026-10-13",
+      "ym": "202610",
+      "apt": "가락마을22단지(에듀힐스)",
+      "dong": "고운동",
+      "area_m2": 84.9968,
+      "floor": "15",
+      "price_man": 45300,
+      "deal_type": "중개거래",
+      "build_year": "2015",
       "dong_bldg": "",
       "registered": false,
       "rgst_date": "",
@@ -16390,16 +16628,16 @@
    },
    "all_84": {
     "label": "흥덕구 전체 84㎡대",
-    "count": 626,
+    "count": 628,
     "small_sample": false,
-    "median_man": 47500.0,
+    "median_man": 47250.0,
     "min_man": 11000,
     "max_man": 89300,
     "p25_man": 32000.0,
-    "p75_man": 55425.0,
-    "rent_count": 627,
+    "p75_man": 55275.0,
+    "rent_count": 631,
     "rent_median_man": 30000.0,
-    "jeonse_ratio_pct": 63.2,
+    "jeonse_ratio_pct": 63.5,
     "jeonse_ratio_pooled_warning": "6개월 풀링값. 시점이 섞여 있으므로 jeonse_ratio_recent_pct 를 쓸 것.",
     "jeonse_ratio_recent_pct": 67.7,
     "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
@@ -16407,18 +16645,18 @@
      376,
      291
     ],
-    "gap_man": 17500.0,
+    "gap_man": 17250.0,
     "gap_recent_man": 15500.0,
     "median_excl_unregistered_man": 46000.0,
     "fair_band_man": [
-     42750,
-     45125
+     42525,
+     44888
     ],
     "bargain_band_man": [
-     40375,
-     42750
+     40162,
+     42525
     ],
-    "unregistered_count": 299,
+    "unregistered_count": 301,
     "corporate_deal_count": 11,
     "monthly": [
      {
@@ -16481,22 +16719,22 @@
       "min_man": 14500,
       "max_man": 80300,
       "p25_man": 31500.0,
-      "rent_count": 56,
-      "rent_median_man": 33500.0,
-      "jeonse_ratio_pct": 83.9,
+      "rent_count": 57,
+      "rent_median_man": 34000.0,
+      "jeonse_ratio_pct": 85.1,
       "small_sample": false
      },
      {
       "month": "202610",
       "complete": false,
-      "count": 25,
+      "count": 27,
       "median_man": 38500.0,
       "min_man": 14300,
       "max_man": 74000,
-      "p25_man": 26800.0,
-      "rent_count": 18,
-      "rent_median_man": 32500.0,
-      "jeonse_ratio_pct": 84.4,
+      "p25_man": 27400.0,
+      "rent_count": 21,
+      "rent_median_man": 35000.0,
+      "jeonse_ratio_pct": 90.9,
       "small_sample": false
      }
     ],
@@ -27043,6 +27281,23 @@
       "land_leasehold": "N"
      },
      {
+      "date": "2026-10-09",
+      "ym": "202610",
+      "apt": "가로수마을한라비발디",
+      "dong": "가경동",
+      "area_m2": 84.962,
+      "floor": "11",
+      "price_man": 41000,
+      "deal_type": "중개거래",
+      "build_year": "2008",
+      "dong_bldg": "",
+      "registered": false,
+      "rgst_date": "",
+      "seller_type": "개인",
+      "buyer_type": "개인",
+      "land_leasehold": "N"
+     },
+     {
       "date": "2026-10-10",
       "ym": "202610",
       "apt": "가로수마을한라비발디",
@@ -27130,6 +27385,23 @@
      {
       "date": "2026-10-12",
       "ym": "202610",
+      "apt": "가경주공7단지",
+      "dong": "가경동",
+      "area_m2": 84.91,
+      "floor": "15",
+      "price_man": 28000,
+      "deal_type": "중개거래",
+      "build_year": "2005",
+      "dong_bldg": "",
+      "registered": false,
+      "rgst_date": "",
+      "seller_type": "개인",
+      "buyer_type": "개인",
+      "land_leasehold": "N"
+     },
+     {
+      "date": "2026-10-12",
+      "ym": "202610",
       "apt": "오송상록롯데캐슬",
       "dong": "오송읍 연제리",
       "area_m2": 84.949,
@@ -27168,35 +27440,35 @@
    "region": "서울특별시",
    "overall": {
     "label": "서울특별시 전체 84㎡대",
-    "count": 3055,
+    "count": 3069,
     "small_sample": false,
-    "median_man": 86800.0,
+    "median_man": 87000.0,
     "min_man": 30000,
     "max_man": 200000,
     "p25_man": 72000.0,
     "p75_man": 109000.0,
-    "rent_count": 3349,
+    "rent_count": 3374,
     "rent_median_man": 53000.0,
-    "jeonse_ratio_pct": 61.1,
+    "jeonse_ratio_pct": 60.9,
     "jeonse_ratio_pooled_warning": null,
     "jeonse_ratio_recent_pct": 60.3,
     "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
     "jeonse_recent_sample": [
      1741,
-     1983
+     1985
     ],
-    "gap_man": 33800.0,
+    "gap_man": 34000.0,
     "gap_recent_man": 34500.0,
     "median_excl_unregistered_man": 85000.0,
     "fair_band_man": [
-     78120,
-     82460
+     78300,
+     82650
     ],
     "bargain_band_man": [
-     73780,
-     78120
+     73950,
+     78300
     ],
-    "unregistered_count": 1287,
+    "unregistered_count": 1295,
     "corporate_deal_count": 9,
     "monthly": [
      {
@@ -27233,7 +27505,7 @@
       "min_man": 45700,
       "max_man": 200000,
       "p25_man": 73075.0,
-      "rent_count": 759,
+      "rent_count": 760,
       "rent_median_man": 51000.0,
       "jeonse_ratio_pct": 58.0,
       "small_sample": false
@@ -27246,7 +27518,7 @@
       "min_man": 41800,
       "max_man": 191000,
       "p25_man": 72150.0,
-      "rent_count": 555,
+      "rent_count": 556,
       "rent_median_man": 54000.0,
       "jeonse_ratio_pct": 63.5,
       "small_sample": false
@@ -27254,27 +27526,27 @@
      {
       "month": "202609",
       "complete": false,
-      "count": 333,
-      "median_man": 85000.0,
+      "count": 341,
+      "median_man": 86000.0,
       "min_man": 32000,
       "max_man": 193000,
       "p25_man": 72000.0,
-      "rent_count": 571,
+      "rent_count": 576,
       "rent_median_man": 52000.0,
-      "jeonse_ratio_pct": 61.2,
+      "jeonse_ratio_pct": 60.5,
       "small_sample": false
      },
      {
       "month": "202610",
       "complete": false,
-      "count": 46,
-      "median_man": 90750.0,
-      "min_man": 65200,
-      "max_man": 145000,
-      "p25_man": 78875.0,
-      "rent_count": 116,
+      "count": 52,
+      "median_man": 92000.0,
+      "min_man": 59500,
+      "max_man": 149500,
+      "p25_man": 79625.0,
+      "rent_count": 134,
       "rent_median_man": 60000.0,
-      "jeonse_ratio_pct": 66.1,
+      "jeonse_ratio_pct": 65.2,
       "small_sample": false
      }
     ],
@@ -27300,14 +27572,14 @@
    "by_region": [
     {
      "label": "중랑구",
-     "count": 377,
+     "count": 379,
      "small_sample": false,
      "median_man": 78000.0,
      "min_man": 40000,
      "max_man": 154000,
      "p25_man": 70000.0,
      "p75_man": 88500.0,
-     "rent_count": 361,
+     "rent_count": 362,
      "rent_median_man": 50000.0,
      "jeonse_ratio_pct": 64.1,
      "jeonse_ratio_pooled_warning": null,
@@ -27319,7 +27591,7 @@
      ],
      "gap_man": 28000.0,
      "gap_recent_man": 30000.0,
-     "median_excl_unregistered_man": 75250.0,
+     "median_excl_unregistered_man": 75000.0,
      "fair_band_man": [
       70200,
       74100
@@ -27328,7 +27600,7 @@
       66300,
       70200
      ],
-     "unregistered_count": 167,
+     "unregistered_count": 168,
      "corporate_deal_count": 0,
      "monthly": [
       {
@@ -27386,27 +27658,27 @@
       {
        "month": "202609",
        "complete": false,
-       "count": 45,
-       "median_man": 77000.0,
+       "count": 46,
+       "median_man": 77250.0,
        "min_man": 58000,
-       "max_man": 132500,
-       "p25_man": 74000.0,
+       "max_man": 154000,
+       "p25_man": 74075.0,
        "rent_count": 40,
        "rent_median_man": 53123.0,
-       "jeonse_ratio_pct": 69.0,
+       "jeonse_ratio_pct": 68.8,
        "small_sample": false
       },
       {
        "month": "202610",
        "complete": false,
-       "count": 10,
-       "median_man": 82450.0,
+       "count": 11,
+       "median_man": 82900.0,
        "min_man": 66800,
-       "max_man": 130000,
-       "p25_man": 78875.0,
-       "rent_count": 11,
-       "rent_median_man": 55000.0,
-       "jeonse_ratio_pct": 66.7,
+       "max_man": 149500,
+       "p25_man": 79250.0,
+       "rent_count": 12,
+       "rent_median_man": 54800.0,
+       "jeonse_ratio_pct": 66.1,
        "small_sample": false
       }
      ],
@@ -27566,14 +27838,14 @@
     },
     {
      "label": "구로구",
-     "count": 498,
+     "count": 499,
      "small_sample": false,
      "median_man": 81000.0,
      "min_man": 40000,
      "max_man": 189000,
      "p25_man": 69800.0,
-     "p75_man": 103375.0,
-     "rent_count": 439,
+     "p75_man": 103250.0,
+     "rent_count": 442,
      "rent_median_man": 50000.0,
      "jeonse_ratio_pct": 61.7,
      "jeonse_ratio_pooled_warning": null,
@@ -27585,7 +27857,7 @@
      ],
      "gap_man": 31000.0,
      "gap_recent_man": 32500.0,
-     "median_excl_unregistered_man": 78900.0,
+     "median_excl_unregistered_man": 78950.0,
      "fair_band_man": [
       72900,
       76950
@@ -27652,14 +27924,14 @@
       {
        "month": "202609",
        "complete": false,
-       "count": 59,
-       "median_man": 82000.0,
+       "count": 60,
+       "median_man": 82150.0,
        "min_man": 40000,
        "max_man": 162000,
-       "p25_man": 70850.0,
+       "p25_man": 71275.0,
        "rent_count": 58,
        "rent_median_man": 53250.0,
-       "jeonse_ratio_pct": 64.9,
+       "jeonse_ratio_pct": 64.8,
        "small_sample": false
       },
       {
@@ -27670,7 +27942,7 @@
        "min_man": 65200,
        "max_man": 143000,
        "p25_man": 80000.0,
-       "rent_count": 18,
+       "rent_count": 21,
        "rent_median_man": 55000.0,
        "jeonse_ratio_pct": 61.1,
        "small_sample": false
@@ -27699,14 +27971,14 @@
     },
     {
      "label": "노원구",
-     "count": 597,
+     "count": 602,
      "small_sample": false,
      "median_man": 85000.0,
      "min_man": 42000,
      "max_man": 144500,
      "p25_man": 69500.0,
-     "p75_man": 101700.0,
-     "rent_count": 534,
+     "p75_man": 101650.0,
+     "rent_count": 540,
      "rent_median_man": 53000.0,
      "jeonse_ratio_pct": 62.4,
      "jeonse_ratio_pooled_warning": null,
@@ -27727,7 +27999,7 @@
       72250,
       76500
      ],
-     "unregistered_count": 258,
+     "unregistered_count": 263,
      "corporate_deal_count": 1,
      "monthly": [
       {
@@ -27785,12 +28057,12 @@
       {
        "month": "202609",
        "complete": false,
-       "count": 61,
+       "count": 64,
        "median_man": 87000.0,
        "min_man": 42000,
        "max_man": 143000,
-       "p25_man": 71000.0,
-       "rent_count": 79,
+       "p25_man": 71750.0,
+       "rent_count": 81,
        "rent_median_man": 55000.0,
        "jeonse_ratio_pct": 63.2,
        "small_sample": false
@@ -27798,14 +28070,14 @@
       {
        "month": "202610",
        "complete": false,
-       "count": 1,
+       "count": 3,
        "median_man": 84000.0,
-       "min_man": 84000,
-       "max_man": 84000,
-       "p25_man": 84000.0,
-       "rent_count": 20,
-       "rent_median_man": 53750.0,
-       "jeonse_ratio_pct": 64.0,
+       "min_man": 59500,
+       "max_man": 98000,
+       "p25_man": 71750.0,
+       "rent_count": 24,
+       "rent_median_man": 55500.0,
+       "jeonse_ratio_pct": 66.1,
        "small_sample": true
       }
      ],
@@ -27839,9 +28111,9 @@
      "max_man": 170000,
      "p25_man": 73000.0,
      "p75_man": 120000.0,
-     "rent_count": 302,
-     "rent_median_man": 59925.0,
-     "jeonse_ratio_pct": 62.7,
+     "rent_count": 306,
+     "rent_median_man": 60000.0,
+     "jeonse_ratio_pct": 62.8,
      "jeonse_ratio_pooled_warning": "6개월 풀링값. 시점이 섞여 있으므로 jeonse_ratio_recent_pct 를 쓸 것.",
      "jeonse_ratio_recent_pct": 54.8,
      "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
@@ -27849,9 +28121,9 @@
       158,
       175
      ],
-     "gap_man": 35575.0,
+     "gap_man": 35500.0,
      "gap_recent_man": 47500.0,
-     "median_excl_unregistered_man": 91000.0,
+     "median_excl_unregistered_man": 90500.0,
      "fair_band_man": [
       85950,
       90725
@@ -27860,7 +28132,7 @@
       81175,
       85950
      ],
-     "unregistered_count": 113,
+     "unregistered_count": 112,
      "corporate_deal_count": 1,
      "monthly": [
       {
@@ -27923,7 +28195,7 @@
        "min_man": 49700,
        "max_man": 159500,
        "p25_man": 70750.0,
-       "rent_count": 47,
+       "rent_count": 48,
        "rent_median_man": 65000.0,
        "jeonse_ratio_pct": 70.8,
        "small_sample": false
@@ -27936,9 +28208,9 @@
        "min_man": 78000,
        "max_man": 107000,
        "p25_man": 80250.0,
-       "rent_count": 12,
-       "rent_median_man": 64500.0,
-       "jeonse_ratio_pct": 73.1,
+       "rent_count": 15,
+       "rent_median_man": 65000.0,
+       "jeonse_ratio_pct": 73.7,
        "small_sample": true
       }
      ],
@@ -27965,14 +28237,14 @@
     },
     {
      "label": "성북구",
-     "count": 529,
+     "count": 534,
      "small_sample": false,
      "median_man": 100000.0,
      "min_man": 30000,
      "max_man": 200000,
-     "p25_man": 84000.0,
+     "p25_man": 84125.0,
      "p75_man": 120000.0,
-     "rent_count": 544,
+     "rent_count": 549,
      "rent_median_man": 60900.0,
      "jeonse_ratio_pct": 60.9,
      "jeonse_ratio_pooled_warning": null,
@@ -27980,10 +28252,10 @@
      "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
      "jeonse_recent_sample": [
       303,
-      315
+      316
      ],
      "gap_man": 39100.0,
-     "gap_recent_man": 41032.0,
+     "gap_recent_man": 41016.0,
      "median_excl_unregistered_man": 99000.0,
      "fair_band_man": [
       90000,
@@ -27993,7 +28265,7 @@
       85000,
       90000
      ],
-     "unregistered_count": 232,
+     "unregistered_count": 234,
      "corporate_deal_count": 2,
      "monthly": [
       {
@@ -28043,35 +28315,35 @@
        "min_man": 44500,
        "max_man": 191000,
        "p25_man": 79000.0,
-       "rent_count": 90,
-       "rent_median_man": 61425.0,
-       "jeonse_ratio_pct": 60.8,
+       "rent_count": 91,
+       "rent_median_man": 61950.0,
+       "jeonse_ratio_pct": 61.3,
        "small_sample": false
       },
       {
        "month": "202609",
        "complete": false,
-       "count": 56,
-       "median_man": 97250.0,
+       "count": 59,
+       "median_man": 98000.0,
        "min_man": 32000,
        "max_man": 193000,
-       "p25_man": 79375.0,
-       "rent_count": 79,
-       "rent_median_man": 61950.0,
+       "p25_man": 79250.0,
+       "rent_count": 80,
+       "rent_median_man": 62475.0,
        "jeonse_ratio_pct": 63.7,
        "small_sample": false
       },
       {
        "month": "202610",
        "complete": false,
-       "count": 7,
-       "median_man": 87000.0,
+       "count": 9,
+       "median_man": 94000.0,
        "min_man": 73000,
        "max_man": 145000,
-       "p25_man": 74250.0,
-       "rent_count": 26,
-       "rent_median_man": 61500.0,
-       "jeonse_ratio_pct": 70.7,
+       "p25_man": 75000.0,
+       "rent_count": 29,
+       "rent_median_man": 63000.0,
+       "jeonse_ratio_pct": 67.0,
        "small_sample": false
       }
      ],
@@ -28086,7 +28358,7 @@
       ],
       "price_change_pct": -0.8,
       "count_change_pct": -63.2,
-      "jeonse_ratio_change_pp": 1.9,
+      "jeonse_ratio_change_pp": 2.4,
       "p25_change_pct": -11.1,
       "min_change_pct": 48.3,
       "small_sample_months": []
@@ -28098,14 +28370,14 @@
     },
     {
      "label": "은평구",
-     "count": 511,
+     "count": 512,
      "small_sample": false,
      "median_man": 94000.0,
      "min_man": 41600,
      "max_man": 191000,
      "p25_man": 76500.0,
      "p75_man": 118000.0,
-     "rent_count": 959,
+     "rent_count": 965,
      "rent_median_man": 45006.0,
      "jeonse_ratio_pct": 47.9,
      "jeonse_ratio_pooled_warning": null,
@@ -28113,7 +28385,7 @@
      "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
      "jeonse_recent_sample": [
       303,
-      553
+      554
      ],
      "gap_man": 48994.0,
      "gap_recent_man": 48994.0,
@@ -28126,7 +28398,7 @@
       79900,
       84600
      ],
-     "unregistered_count": 230,
+     "unregistered_count": 231,
      "corporate_deal_count": 2,
      "monthly": [
       {
@@ -28163,7 +28435,7 @@
        "min_man": 45700,
        "max_man": 180000,
        "p25_man": 73425.0,
-       "rent_count": 232,
+       "rent_count": 233,
        "rent_median_man": 45000.0,
        "jeonse_ratio_pct": 47.2,
        "small_sample": false
@@ -28189,7 +28461,7 @@
        "min_man": 42500,
        "max_man": 160000,
        "p25_man": 69500.0,
-       "rent_count": 227,
+       "rent_count": 228,
        "rent_median_man": 21748.0,
        "jeonse_ratio_pct": 24.7,
        "small_sample": false
@@ -28197,14 +28469,14 @@
       {
        "month": "202610",
        "complete": false,
-       "count": 8,
-       "median_man": 106250.0,
+       "count": 9,
+       "median_man": 103500.0,
        "min_man": 66500,
        "max_man": 139500,
        "p25_man": 92000.0,
-       "rent_count": 21,
-       "rent_median_man": 63000.0,
-       "jeonse_ratio_pct": 59.3,
+       "rent_count": 25,
+       "rent_median_man": 62000.0,
+       "jeonse_ratio_pct": 59.9,
        "small_sample": false
       }
      ],
@@ -28236,7 +28508,7 @@
      "gap_man": 28000.0,
      "jeonse_ratio_pct": 64.1,
      "median_man": 78000.0,
-     "count": 377
+     "count": 379
     },
     {
      "name": "강북구",
@@ -28250,19 +28522,19 @@
      "gap_man": 31000.0,
      "jeonse_ratio_pct": 61.7,
      "median_man": 81000.0,
-     "count": 498
+     "count": 499
     },
     {
      "name": "노원구",
      "gap_man": 32000.0,
      "jeonse_ratio_pct": 62.4,
      "median_man": 85000.0,
-     "count": 597
+     "count": 602
     },
     {
      "name": "관악구",
-     "gap_man": 35575.0,
-     "jeonse_ratio_pct": 62.7,
+     "gap_man": 35500.0,
+     "jeonse_ratio_pct": 62.8,
      "median_man": 95500.0,
      "count": 296
     },
@@ -28271,14 +28543,14 @@
      "gap_man": 39100.0,
      "jeonse_ratio_pct": 60.9,
      "median_man": 100000.0,
-     "count": 529
+     "count": 534
     },
     {
      "name": "은평구",
      "gap_man": 48994.0,
      "jeonse_ratio_pct": 47.9,
      "median_man": 94000.0,
-     "count": 511
+     "count": 512
     }
    ]
   },
@@ -28286,22 +28558,22 @@
    "region": "경기도",
    "overall": {
     "label": "경기도 전체 84㎡대",
-    "count": 24101,
+    "count": 24332,
     "small_sample": false,
     "median_man": 58000.0,
     "min_man": 5400,
     "max_man": 285000,
     "p25_man": 42000.0,
     "p75_man": 80000.0,
-    "rent_count": 22391,
+    "rent_count": 22590,
     "rent_median_man": 38000.0,
     "jeonse_ratio_pct": 65.5,
     "jeonse_ratio_pooled_warning": null,
     "jeonse_ratio_recent_pct": 65.8,
     "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
     "jeonse_recent_sample": [
-     14460,
-     12964
+     14459,
+     12983
     ],
     "gap_man": 20000.0,
     "gap_recent_man": 20000.0,
@@ -28314,8 +28586,8 @@
      49300,
      52200
     ],
-    "unregistered_count": 11200,
-    "corporate_deal_count": 249,
+    "unregistered_count": 11404,
+    "corporate_deal_count": 250,
     "monthly": [
      {
       "month": "202605",
@@ -28338,7 +28610,7 @@
       "min_man": 10000,
       "max_man": 280000,
       "p25_man": 44000.0,
-      "rent_count": 4487,
+      "rent_count": 4488,
       "rent_median_man": 39000.0,
       "jeonse_ratio_pct": 62.9,
       "small_sample": false
@@ -28346,12 +28618,12 @@
      {
       "month": "202607",
       "complete": true,
-      "count": 4847,
-      "median_man": 57900.0,
+      "count": 4846,
+      "median_man": 57950.0,
       "min_man": 8960,
       "max_man": 280000,
       "p25_man": 42000.0,
-      "rent_count": 4590,
+      "rent_count": 4598,
       "rent_median_man": 38000.0,
       "jeonse_ratio_pct": 65.6,
       "small_sample": false
@@ -28364,7 +28636,7 @@
       "min_man": 12200,
       "max_man": 273000,
       "p25_man": 40300.0,
-      "rent_count": 3887,
+      "rent_count": 3897,
       "rent_median_man": 38300.0,
       "jeonse_ratio_pct": 70.9,
       "small_sample": false
@@ -28372,27 +28644,27 @@
      {
       "month": "202609",
       "complete": false,
-      "count": 3388,
-      "median_man": 53275.0,
+      "count": 3442,
+      "median_man": 53500.0,
       "min_man": 12000,
       "max_man": 285000,
-      "p25_man": 39575.0,
-      "rent_count": 3775,
+      "p25_man": 39800.0,
+      "rent_count": 3799,
       "rent_median_man": 35700.0,
-      "jeonse_ratio_pct": 67.0,
+      "jeonse_ratio_pct": 66.7,
       "small_sample": false
      },
      {
       "month": "202610",
       "complete": false,
-      "count": 717,
+      "count": 895,
       "median_man": 51000.0,
       "min_man": 15000,
       "max_man": 212500,
-      "p25_man": 39000.0,
-      "rent_count": 1079,
-      "rent_median_man": 39000.0,
-      "jeonse_ratio_pct": 76.5,
+      "p25_man": 38100.0,
+      "rent_count": 1235,
+      "rent_median_man": 38850.0,
+      "jeonse_ratio_pct": 76.2,
       "small_sample": false
      }
     ],
@@ -28418,14 +28690,14 @@
    "by_region": [
     {
      "label": "이천시",
-     "count": 355,
+     "count": 358,
      "small_sample": false,
      "median_man": 30000.0,
      "min_man": 8960,
-     "max_man": 58000,
-     "p25_man": 19500.0,
+     "max_man": 58500,
+     "p25_man": 19562.5,
      "p75_man": 38000.0,
-     "rent_count": 397,
+     "rent_count": 399,
      "rent_median_man": 25000.0,
      "jeonse_ratio_pct": 83.3,
      "jeonse_ratio_pooled_warning": null,
@@ -28446,7 +28718,7 @@
       25500,
       27000
      ],
-     "unregistered_count": 120,
+     "unregistered_count": 123,
      "corporate_deal_count": 2,
      "monthly": [
       {
@@ -28504,27 +28776,27 @@
       {
        "month": "202609",
        "complete": false,
-       "count": 67,
-       "median_man": 36005.0,
+       "count": 68,
+       "median_man": 36252.5,
        "min_man": 12000,
        "max_man": 58000,
        "p25_man": 23000.0,
        "rent_count": 66,
        "rent_median_man": 24250.0,
-       "jeonse_ratio_pct": 67.4,
+       "jeonse_ratio_pct": 66.9,
        "small_sample": false
       },
       {
        "month": "202610",
        "complete": false,
-       "count": 15,
-       "median_man": 27000.0,
+       "count": 17,
+       "median_man": 34000.0,
        "min_man": 16000,
-       "max_man": 58000,
-       "p25_man": 19000.0,
-       "rent_count": 20,
-       "rent_median_man": 18900.0,
-       "jeonse_ratio_pct": 70.0,
+       "max_man": 58500,
+       "p25_man": 19500.0,
+       "rent_count": 22,
+       "rent_median_man": 19500.0,
+       "jeonse_ratio_pct": 57.4,
        "small_sample": false
       }
      ],
@@ -28551,14 +28823,14 @@
     },
     {
      "label": "파주시",
-     "count": 1010,
+     "count": 1022,
      "small_sample": false,
      "median_man": 39500.0,
      "min_man": 14000,
      "max_man": 79500,
      "p25_man": 29400.0,
-     "p75_man": 58150.0,
-     "rent_count": 1201,
+     "p75_man": 58000.0,
+     "rent_count": 1214,
      "rent_median_man": 30000.0,
      "jeonse_ratio_pct": 75.9,
      "jeonse_ratio_pooled_warning": null,
@@ -28566,7 +28838,7 @@
      "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
      "jeonse_recent_sample": [
       567,
-      698
+      699
      ],
      "gap_man": 9500.0,
      "gap_recent_man": 10500.0,
@@ -28579,7 +28851,7 @@
       33575,
       35550
      ],
-     "unregistered_count": 465,
+     "unregistered_count": 477,
      "corporate_deal_count": 16,
      "monthly": [
       {
@@ -28629,7 +28901,7 @@
        "min_man": 15000,
        "max_man": 79500,
        "p25_man": 27850.0,
-       "rent_count": 204,
+       "rent_count": 205,
        "rent_median_man": 31500.0,
        "jeonse_ratio_pct": 84.0,
        "small_sample": false
@@ -28637,27 +28909,27 @@
       {
        "month": "202609",
        "complete": false,
-       "count": 172,
-       "median_man": 38600.0,
+       "count": 174,
+       "median_man": 38750.0,
        "min_man": 14000,
        "max_man": 79300,
-       "p25_man": 28725.0,
-       "rent_count": 200,
+       "p25_man": 28812.5,
+       "rent_count": 202,
        "rent_median_man": 31500.0,
-       "jeonse_ratio_pct": 81.6,
+       "jeonse_ratio_pct": 81.3,
        "small_sample": false
       },
       {
        "month": "202610",
        "complete": false,
-       "count": 54,
-       "median_man": 39100.0,
+       "count": 64,
+       "median_man": 40100.0,
        "min_man": 19500,
        "max_man": 79000,
-       "p25_man": 30475.0,
-       "rent_count": 66,
-       "rent_median_man": 29750.0,
-       "jeonse_ratio_pct": 76.1,
+       "p25_man": 29950.0,
+       "rent_count": 76,
+       "rent_median_man": 32000.0,
+       "jeonse_ratio_pct": 79.8,
        "small_sample": false
       }
      ],
@@ -28684,14 +28956,14 @@
     },
     {
      "label": "고양 일산서구",
-     "count": 412,
+     "count": 415,
      "small_sample": false,
      "median_man": 42000.0,
      "min_man": 21000,
      "max_man": 120000,
      "p25_man": 33000.0,
-     "p75_man": 51850.0,
-     "rent_count": 467,
+     "p75_man": 51900.0,
+     "rent_count": 471,
      "rent_median_man": 31500.0,
      "jeonse_ratio_pct": 75.0,
      "jeonse_ratio_pooled_warning": null,
@@ -28712,7 +28984,7 @@
       35700,
       37800
      ],
-     "unregistered_count": 196,
+     "unregistered_count": 197,
      "corporate_deal_count": 2,
      "monthly": [
       {
@@ -28783,14 +29055,14 @@
       {
        "month": "202610",
        "complete": false,
-       "count": 28,
-       "median_man": 45625.0,
+       "count": 31,
+       "median_man": 44250.0,
        "min_man": 25500,
        "max_man": 73500,
-       "p25_man": 37875.0,
-       "rent_count": 30,
+       "p25_man": 36750.0,
+       "rent_count": 34,
        "rent_median_man": 32500.0,
-       "jeonse_ratio_pct": 71.2,
+       "jeonse_ratio_pct": 73.4,
        "small_sample": false
       }
      ],
@@ -28817,25 +29089,25 @@
     },
     {
      "label": "광주시",
-     "count": 820,
+     "count": 827,
      "small_sample": false,
      "median_man": 44500.0,
      "min_man": 17000,
      "max_man": 99000,
      "p25_man": 31800.0,
-     "p75_man": 59900.0,
-     "rent_count": 760,
+     "p75_man": 59850.0,
+     "rent_count": 767,
      "rent_median_man": 33000.0,
      "jeonse_ratio_pct": 74.2,
      "jeonse_ratio_pooled_warning": null,
-     "jeonse_ratio_recent_pct": 74.7,
+     "jeonse_ratio_recent_pct": 75.0,
      "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
      "jeonse_recent_sample": [
-      504,
-      455
+      503,
+      457
      ],
      "gap_man": 11500.0,
-     "gap_recent_man": 11175.0,
+     "gap_recent_man": 11000.0,
      "median_excl_unregistered_man": 41500.0,
      "fair_band_man": [
       40050,
@@ -28845,7 +29117,7 @@
       37825,
       40050
      ],
-     "unregistered_count": 355,
+     "unregistered_count": 360,
      "corporate_deal_count": 9,
      "monthly": [
       {
@@ -28864,14 +29136,14 @@
       {
        "month": "202606",
        "complete": true,
-       "count": 200,
-       "median_man": 44950.0,
+       "count": 199,
+       "median_man": 44900.0,
        "min_man": 20500,
        "max_man": 95000,
-       "p25_man": 31875.0,
+       "p25_man": 31850.0,
        "rent_count": 156,
        "rent_median_man": 34000.0,
-       "jeonse_ratio_pct": 75.6,
+       "jeonse_ratio_pct": 75.7,
        "small_sample": false
       },
       {
@@ -28895,20 +29167,20 @@
        "min_man": 17900,
        "max_man": 99000,
        "p25_man": 31000.0,
-       "rent_count": 132,
-       "rent_median_man": 32250.0,
-       "jeonse_ratio_pct": 76.8,
+       "rent_count": 134,
+       "rent_median_man": 32750.0,
+       "jeonse_ratio_pct": 78.0,
        "small_sample": false
       },
       {
        "month": "202609",
        "complete": false,
-       "count": 134,
+       "count": 135,
        "median_man": 44500.0,
        "min_man": 17000,
        "max_man": 95500,
-       "p25_man": 33075.0,
-       "rent_count": 93,
+       "p25_man": 32750.0,
+       "rent_count": 95,
        "rent_median_man": 34000.0,
        "jeonse_ratio_pct": 76.4,
        "small_sample": false
@@ -28916,14 +29188,14 @@
       {
        "month": "202610",
        "complete": false,
-       "count": 30,
-       "median_man": 42250.0,
+       "count": 37,
+       "median_man": 39000.0,
        "min_man": 20000,
        "max_man": 73000,
-       "p25_man": 28775.0,
-       "rent_count": 24,
+       "p25_man": 28700.0,
+       "rent_count": 27,
        "rent_median_man": 36000.0,
-       "jeonse_ratio_pct": 85.2,
+       "jeonse_ratio_pct": 92.3,
        "small_sample": false
       }
      ],
@@ -28938,7 +29210,7 @@
       ],
       "price_change_pct": -8.9,
       "count_change_pct": -9.9,
-      "jeonse_ratio_change_pp": 7.4,
+      "jeonse_ratio_change_pp": 8.6,
       "p25_change_pct": 0.8,
       "min_change_pct": -11.8,
       "small_sample_months": []
@@ -28950,35 +29222,35 @@
     },
     {
      "label": "군포시",
-     "count": 358,
+     "count": 363,
      "small_sample": false,
-     "median_man": 54600.0,
+     "median_man": 54700.0,
      "min_man": 25000,
      "max_man": 130000,
-     "p25_man": 49550.0,
-     "p75_man": 63150.0,
-     "rent_count": 200,
+     "p25_man": 49600.0,
+     "p75_man": 63500.0,
+     "rent_count": 203,
      "rent_median_man": 43000.0,
-     "jeonse_ratio_pct": 78.8,
+     "jeonse_ratio_pct": 78.6,
      "jeonse_ratio_pooled_warning": null,
-     "jeonse_ratio_recent_pct": 78.4,
+     "jeonse_ratio_recent_pct": 78.0,
      "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
      "jeonse_recent_sample": [
-      214,
-      108
+      213,
+      109
      ],
-     "gap_man": 11600.0,
-     "gap_recent_man": 11750.0,
+     "gap_man": 11700.0,
+     "gap_recent_man": 12000.0,
      "median_excl_unregistered_man": 52000.0,
      "fair_band_man": [
-      49140,
-      51870
+      49230,
+      51965
      ],
      "bargain_band_man": [
-      46410,
-      49140
+      46495,
+      49230
      ],
-     "unregistered_count": 211,
+     "unregistered_count": 216,
      "corporate_deal_count": 1,
      "monthly": [
       {
@@ -29010,14 +29282,14 @@
       {
        "month": "202607",
        "complete": true,
-       "count": 78,
+       "count": 77,
        "median_man": 56000.0,
        "min_man": 37000,
        "max_man": 115000,
        "p25_man": 50800.0,
-       "rent_count": 34,
-       "rent_median_man": 43150.0,
-       "jeonse_ratio_pct": 77.1,
+       "rent_count": 35,
+       "rent_median_man": 42500.0,
+       "jeonse_ratio_pct": 75.9,
        "small_sample": false
       },
       {
@@ -29036,27 +29308,27 @@
       {
        "month": "202609",
        "complete": false,
-       "count": 65,
-       "median_man": 58500.0,
+       "count": 68,
+       "median_man": 58750.0,
        "min_man": 38500,
        "max_man": 130000,
-       "p25_man": 50500.0,
+       "p25_man": 50375.0,
        "rent_count": 34,
        "rent_median_man": 42000.0,
-       "jeonse_ratio_pct": 71.8,
+       "jeonse_ratio_pct": 71.5,
        "small_sample": false
       },
       {
        "month": "202610",
        "complete": false,
-       "count": 12,
-       "median_man": 55500.0,
+       "count": 15,
+       "median_man": 56500.0,
        "min_man": 51500,
-       "max_man": 64500,
-       "p25_man": 52825.0,
-       "rent_count": 9,
+       "max_man": 125000,
+       "p25_man": 53500.0,
+       "rent_count": 11,
        "rent_median_man": 52500.0,
-       "jeonse_ratio_pct": 94.6,
+       "jeonse_ratio_pct": 92.9,
        "small_sample": false
       }
      ],
@@ -29083,14 +29355,14 @@
     },
     {
      "label": "김포시",
-     "count": 832,
+     "count": 842,
      "small_sample": false,
      "median_man": 45450.0,
      "min_man": 21000,
      "max_man": 78500,
      "p25_man": 40000.0,
-     "p75_man": 57825.0,
-     "rent_count": 1054,
+     "p75_man": 57725.0,
+     "rent_count": 1060,
      "rent_median_man": 33500.0,
      "jeonse_ratio_pct": 73.7,
      "jeonse_ratio_pooled_warning": null,
@@ -29098,7 +29370,7 @@
      "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
      "jeonse_recent_sample": [
       513,
-      625
+      626
      ],
      "gap_man": 11950.0,
      "gap_recent_man": 12000.0,
@@ -29111,7 +29383,7 @@
       38632,
       40905
      ],
-     "unregistered_count": 379,
+     "unregistered_count": 389,
      "corporate_deal_count": 2,
      "monthly": [
       {
@@ -29161,7 +29433,7 @@
        "min_man": 24500,
        "max_man": 78500,
        "p25_man": 40000.0,
-       "rent_count": 188,
+       "rent_count": 189,
        "rent_median_man": 34500.0,
        "jeonse_ratio_pct": 75.0,
        "small_sample": false
@@ -29169,27 +29441,27 @@
       {
        "month": "202609",
        "complete": false,
-       "count": 118,
-       "median_man": 43750.0,
+       "count": 121,
+       "median_man": 44000.0,
        "min_man": 23000,
        "max_man": 76000,
        "p25_man": 39000.0,
-       "rent_count": 169,
+       "rent_count": 170,
        "rent_median_man": 34000.0,
-       "jeonse_ratio_pct": 77.7,
+       "jeonse_ratio_pct": 77.3,
        "small_sample": false
       },
       {
        "month": "202610",
        "complete": false,
-       "count": 22,
-       "median_man": 44745.0,
+       "count": 29,
+       "median_man": 44400.0,
        "min_man": 25000,
        "max_man": 72500,
-       "p25_man": 38025.0,
-       "rent_count": 47,
+       "p25_man": 40500.0,
+       "rent_count": 51,
        "rent_median_man": 33600.0,
-       "jeonse_ratio_pct": 75.1,
+       "jeonse_ratio_pct": 75.7,
        "small_sample": false
       }
      ],
@@ -29216,14 +29488,14 @@
     },
     {
      "label": "의정부시",
-     "count": 790,
+     "count": 804,
      "small_sample": false,
      "median_man": 42000.0,
      "min_man": 14000,
      "max_man": 88000,
-     "p25_man": 34800.0,
-     "p75_man": 53225.0,
-     "rent_count": 568,
+     "p25_man": 34962.5,
+     "p75_man": 53075.0,
+     "rent_count": 573,
      "rent_median_man": 30000.0,
      "jeonse_ratio_pct": 71.4,
      "jeonse_ratio_pooled_warning": null,
@@ -29244,7 +29516,7 @@
       35700,
       37800
      ],
-     "unregistered_count": 376,
+     "unregistered_count": 390,
      "corporate_deal_count": 7,
      "monthly": [
       {
@@ -29302,11 +29574,11 @@
       {
        "month": "202609",
        "complete": false,
-       "count": 117,
+       "count": 121,
        "median_man": 41000.0,
        "min_man": 14000,
        "max_man": 87000,
-       "p25_man": 34500.0,
+       "p25_man": 35000.0,
        "rent_count": 78,
        "rent_median_man": 33000.0,
        "jeonse_ratio_pct": 80.5,
@@ -29315,14 +29587,14 @@
       {
        "month": "202610",
        "complete": false,
-       "count": 16,
-       "median_man": 40250.0,
+       "count": 26,
+       "median_man": 42150.0,
        "min_man": 23800,
        "max_man": 87500,
-       "p25_man": 33650.0,
-       "rent_count": 18,
-       "rent_median_man": 34000.0,
-       "jeonse_ratio_pct": 84.5,
+       "p25_man": 35625.0,
+       "rent_count": 23,
+       "rent_median_man": 36500.0,
+       "jeonse_ratio_pct": 86.6,
        "small_sample": false
       }
      ],
@@ -29349,14 +29621,14 @@
     },
     {
      "label": "오산시",
-     "count": 726,
+     "count": 732,
      "small_sample": false,
      "median_man": 42500.0,
      "min_man": 19400,
      "max_man": 79000,
-     "p25_man": 32625.0,
+     "p25_man": 32575.0,
      "p75_man": 49000.0,
-     "rent_count": 359,
+     "rent_count": 363,
      "rent_median_man": 30000.0,
      "jeonse_ratio_pct": 70.6,
      "jeonse_ratio_pooled_warning": null,
@@ -29377,7 +29649,7 @@
       36125,
       38250
      ],
-     "unregistered_count": 394,
+     "unregistered_count": 400,
      "corporate_deal_count": 12,
      "monthly": [
       {
@@ -29448,14 +29720,14 @@
       {
        "month": "202610",
        "complete": false,
-       "count": 34,
-       "median_man": 44500.0,
+       "count": 40,
+       "median_man": 45500.0,
        "min_man": 20000,
-       "max_man": 61000,
-       "p25_man": 34500.0,
-       "rent_count": 13,
-       "rent_median_man": 33000.0,
-       "jeonse_ratio_pct": 74.2,
+       "max_man": 61500,
+       "p25_man": 34000.0,
+       "rent_count": 17,
+       "rent_median_man": 31500.0,
+       "jeonse_ratio_pct": 69.2,
        "small_sample": false
       }
      ],
@@ -29482,25 +29754,25 @@
     },
     {
      "label": "평택시",
-     "count": 1316,
+     "count": 1351,
      "small_sample": false,
      "median_man": 38000.0,
      "min_man": 5400,
      "max_man": 95000,
-     "p25_man": 27475.0,
+     "p25_man": 27350.0,
      "p75_man": 53500.0,
-     "rent_count": 1281,
+     "rent_count": 1297,
      "rent_median_man": 25000.0,
      "jeonse_ratio_pct": 65.8,
      "jeonse_ratio_pooled_warning": null,
-     "jeonse_ratio_recent_pct": 64.6,
+     "jeonse_ratio_recent_pct": 64.5,
      "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
      "jeonse_recent_sample": [
-      806,
-      760
+      805,
+      761
      ],
      "gap_man": 13000.0,
-     "gap_recent_man": 13725.0,
+     "gap_recent_man": 13750.0,
      "median_excl_unregistered_man": 35000.0,
      "fair_band_man": [
       34200,
@@ -29510,8 +29782,8 @@
       32300,
       34200
      ],
-     "unregistered_count": 529,
-     "corporate_deal_count": 24,
+     "unregistered_count": 563,
+     "corporate_deal_count": 25,
      "monthly": [
       {
        "month": "202605",
@@ -29542,7 +29814,7 @@
       {
        "month": "202607",
        "complete": true,
-       "count": 283,
+       "count": 282,
        "median_man": 40000.0,
        "min_man": 12500,
        "max_man": 91000,
@@ -29560,7 +29832,7 @@
        "min_man": 12200,
        "max_man": 94000,
        "p25_man": 25350.0,
-       "rent_count": 219,
+       "rent_count": 220,
        "rent_median_man": 25000.0,
        "jeonse_ratio_pct": 70.9,
        "small_sample": false
@@ -29568,27 +29840,27 @@
       {
        "month": "202609",
        "complete": false,
-       "count": 216,
-       "median_man": 37350.0,
+       "count": 218,
+       "median_man": 37750.0,
        "min_man": 12900,
        "max_man": 95000,
-       "p25_man": 28387.5,
-       "rent_count": 214,
+       "p25_man": 28425.0,
+       "rent_count": 215,
        "rent_median_man": 25000.0,
-       "jeonse_ratio_pct": 66.9,
+       "jeonse_ratio_pct": 66.2,
        "small_sample": false
       },
       {
        "month": "202610",
        "complete": false,
-       "count": 46,
-       "median_man": 39750.0,
+       "count": 80,
+       "median_man": 37500.0,
        "min_man": 15000,
-       "max_man": 73000,
-       "p25_man": 28000.0,
-       "rent_count": 61,
-       "rent_median_man": 25200.0,
-       "jeonse_ratio_pct": 63.4,
+       "max_man": 90000,
+       "p25_man": 27175.0,
+       "rent_count": 75,
+       "rent_median_man": 25000.0,
+       "jeonse_ratio_pct": 66.7,
        "small_sample": false
       }
      ],
@@ -29615,24 +29887,24 @@
     },
     {
      "label": "용인 처인구",
-     "count": 452,
+     "count": 455,
      "small_sample": false,
      "median_man": 44000.0,
      "min_man": 14000,
      "max_man": 76000,
-     "p25_man": 33975.0,
+     "p25_man": 33950.0,
      "p75_man": 54000.0,
-     "rent_count": 399,
-     "rent_median_man": 29000.0,
-     "jeonse_ratio_pct": 65.9,
-     "jeonse_ratio_pooled_warning": null,
+     "rent_count": 401,
+     "rent_median_man": 29400.0,
+     "jeonse_ratio_pct": 66.8,
+     "jeonse_ratio_pooled_warning": "6개월 풀링값. 시점이 섞여 있으므로 jeonse_ratio_recent_pct 를 쓸 것.",
      "jeonse_ratio_recent_pct": 63.6,
      "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
      "jeonse_recent_sample": [
       279,
-      240
+      241
      ],
-     "gap_man": 15000.0,
+     "gap_man": 14600.0,
      "gap_recent_man": 16000.0,
      "median_excl_unregistered_man": 42950.0,
      "fair_band_man": [
@@ -29643,7 +29915,7 @@
       37400,
       39600
      ],
-     "unregistered_count": 216,
+     "unregistered_count": 217,
      "corporate_deal_count": 14,
      "monthly": [
       {
@@ -29680,9 +29952,9 @@
        "min_man": 18000,
        "max_man": 70000,
        "p25_man": 32625.0,
-       "rent_count": 79,
-       "rent_median_man": 28350.0,
-       "jeonse_ratio_pct": 64.0,
+       "rent_count": 80,
+       "rent_median_man": 28675.0,
+       "jeonse_ratio_pct": 64.7,
        "small_sample": false
       },
       {
@@ -29714,14 +29986,14 @@
       {
        "month": "202610",
        "complete": false,
-       "count": 20,
-       "median_man": 50950.0,
+       "count": 23,
+       "median_man": 50400.0,
        "min_man": 21700,
        "max_man": 73000,
-       "p25_man": 37750.0,
-       "rent_count": 10,
-       "rent_median_man": 38875.0,
-       "jeonse_ratio_pct": 76.3,
+       "p25_man": 37500.0,
+       "rent_count": 11,
+       "rent_median_man": 37000.0,
+       "jeonse_ratio_pct": 73.4,
        "small_sample": false
       }
      ],
@@ -29748,14 +30020,14 @@
     },
     {
      "label": "고양 일산동구",
-     "count": 342,
+     "count": 354,
      "small_sample": false,
      "median_man": 59000.0,
      "min_man": 23000,
      "max_man": 141800,
      "p25_man": 42500.0,
-     "p75_man": 68875.0,
-     "rent_count": 398,
+     "p75_man": 69187.5,
+     "rent_count": 407,
      "rent_median_man": 42000.0,
      "jeonse_ratio_pct": 71.2,
      "jeonse_ratio_pooled_warning": "6개월 풀링값. 시점이 섞여 있으므로 jeonse_ratio_recent_pct 를 쓸 것.",
@@ -29763,10 +30035,10 @@
      "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
      "jeonse_recent_sample": [
       189,
-      237
+      238
      ],
      "gap_man": 17000.0,
-     "gap_recent_man": 14000.0,
+     "gap_recent_man": 14050.0,
      "median_excl_unregistered_man": 59000.0,
      "fair_band_man": [
       53100,
@@ -29776,7 +30048,7 @@
       50150,
       53100
      ],
-     "unregistered_count": 162,
+     "unregistered_count": 174,
      "corporate_deal_count": 3,
      "monthly": [
       {
@@ -29826,35 +30098,35 @@
        "min_man": 23000,
        "max_man": 140700,
        "p25_man": 38587.5,
-       "rent_count": 72,
-       "rent_median_man": 43494.5,
-       "jeonse_ratio_pct": 85.9,
+       "rent_count": 73,
+       "rent_median_man": 43000.0,
+       "jeonse_ratio_pct": 84.9,
        "small_sample": false
       },
       {
        "month": "202609",
        "complete": false,
-       "count": 66,
-       "median_man": 63400.0,
+       "count": 70,
+       "median_man": 63650.0,
        "min_man": 26000,
        "max_man": 134000,
-       "p25_man": 45400.0,
+       "p25_man": 45775.0,
        "rent_count": 67,
        "rent_median_man": 42000.0,
-       "jeonse_ratio_pct": 66.2,
+       "jeonse_ratio_pct": 66.0,
        "small_sample": false
       },
       {
        "month": "202610",
        "complete": false,
-       "count": 10,
+       "count": 18,
        "median_man": 55000.0,
-       "min_man": 41000,
-       "max_man": 125000,
-       "p25_man": 46812.5,
-       "rent_count": 19,
-       "rent_median_man": 38000.0,
-       "jeonse_ratio_pct": 69.1,
+       "min_man": 33900,
+       "max_man": 132500,
+       "p25_man": 42750.0,
+       "rent_count": 27,
+       "rent_median_man": 40700.0,
+       "jeonse_ratio_pct": 74.0,
        "small_sample": false
       }
      ],
@@ -29869,7 +30141,7 @@
       ],
       "price_change_pct": -17.0,
       "count_change_pct": -35.1,
-      "jeonse_ratio_change_pp": 20.3,
+      "jeonse_ratio_change_pp": 19.3,
       "p25_change_pct": -12.3,
       "min_change_pct": -23.3,
       "small_sample_months": []
@@ -29881,16 +30153,16 @@
     },
     {
      "label": "안산 단원구",
-     "count": 312,
+     "count": 315,
      "small_sample": false,
-     "median_man": 53125.0,
+     "median_man": 53000.0,
      "min_man": 27000,
      "max_man": 113500,
      "p25_man": 45000.0,
-     "p75_man": 62075.0,
-     "rent_count": 274,
+     "p75_man": 62150.0,
+     "rent_count": 277,
      "rent_median_man": 36000.0,
-     "jeonse_ratio_pct": 67.8,
+     "jeonse_ratio_pct": 67.9,
      "jeonse_ratio_pooled_warning": null,
      "jeonse_ratio_recent_pct": 67.9,
      "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
@@ -29898,18 +30170,18 @@
       189,
       146
      ],
-     "gap_man": 17125.0,
+     "gap_man": 17000.0,
      "gap_recent_man": 17000.0,
      "median_excl_unregistered_man": 51950.0,
      "fair_band_man": [
-      47812,
-      50469
+      47700,
+      50350
      ],
      "bargain_band_man": [
-      45156,
-      47812
+      45050,
+      47700
      ],
-     "unregistered_count": 130,
+     "unregistered_count": 133,
      "corporate_deal_count": 6,
      "monthly": [
       {
@@ -29972,7 +30244,7 @@
        "min_man": 31000,
        "max_man": 113500,
        "p25_man": 47375.0,
-       "rent_count": 41,
+       "rent_count": 42,
        "rent_median_man": 35000.0,
        "jeonse_ratio_pct": 64.4,
        "small_sample": false
@@ -29980,13 +30252,13 @@
       {
        "month": "202610",
        "complete": false,
-       "count": 7,
-       "median_man": 55000.0,
+       "count": 10,
+       "median_man": 53500.0,
        "min_man": 42500,
-       "max_man": 58000,
-       "p25_man": 46900.0,
-       "rent_count": 16,
-       "rent_median_man": 37800.0,
+       "max_man": 66500,
+       "p25_man": 45000.0,
+       "rent_count": 18,
+       "rent_median_man": 36750.0,
        "jeonse_ratio_pct": 68.7,
        "small_sample": false
       }
@@ -30014,16 +30286,16 @@
     },
     {
      "label": "안양 만안구",
-     "count": 382,
+     "count": 385,
      "small_sample": false,
-     "median_man": 62150.0,
+     "median_man": 62300.0,
      "min_man": 27500,
      "max_man": 124500,
-     "p25_man": 48850.0,
-     "p75_man": 80375.0,
-     "rent_count": 223,
+     "p25_man": 49000.0,
+     "p75_man": 81000.0,
+     "rent_count": 226,
      "rent_median_man": 45000.0,
-     "jeonse_ratio_pct": 72.4,
+     "jeonse_ratio_pct": 72.2,
      "jeonse_ratio_pooled_warning": null,
      "jeonse_ratio_recent_pct": 72.1,
      "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
@@ -30031,18 +30303,18 @@
       244,
       141
      ],
-     "gap_man": 17150.0,
+     "gap_man": 17300.0,
      "gap_recent_man": 17400.0,
      "median_excl_unregistered_man": 61000.0,
      "fair_band_man": [
-      55935,
-      59042
+      56070,
+      59185
      ],
      "bargain_band_man": [
-      52828,
-      55935
+      52955,
+      56070
      ],
-     "unregistered_count": 199,
+     "unregistered_count": 202,
      "corporate_deal_count": 1,
      "monthly": [
       {
@@ -30100,28 +30372,28 @@
       {
        "month": "202609",
        "complete": false,
-       "count": 55,
-       "median_man": 57800.0,
+       "count": 56,
+       "median_man": 58150.0,
        "min_man": 27500,
        "max_man": 124500,
-       "p25_man": 46750.0,
-       "rent_count": 32,
-       "rent_median_man": 44500.0,
-       "jeonse_ratio_pct": 77.0,
+       "p25_man": 46875.0,
+       "rent_count": 33,
+       "rent_median_man": 46000.0,
+       "jeonse_ratio_pct": 79.1,
        "small_sample": false
       },
       {
        "month": "202610",
        "complete": false,
-       "count": 4,
-       "median_man": 85000.0,
+       "count": 6,
+       "median_man": 94150.0,
        "min_man": 39000,
        "max_man": 116600,
-       "p25_man": 66000.0,
-       "rent_count": 11,
-       "rent_median_man": 53000.0,
-       "jeonse_ratio_pct": 62.4,
-       "small_sample": true
+       "p25_man": 79575.0,
+       "rent_count": 13,
+       "rent_median_man": 51500.0,
+       "jeonse_ratio_pct": 54.7,
+       "small_sample": false
       }
      ],
      "trend": {
@@ -30146,148 +30418,15 @@
      "lawd_cd": "41171"
     },
     {
-     "label": "수원 장안구",
-     "count": 464,
-     "small_sample": false,
-     "median_man": 60750.0,
-     "min_man": 26000,
-     "max_man": 153000,
-     "p25_man": 49000.0,
-     "p75_man": 80000.0,
-     "rent_count": 308,
-     "rent_median_man": 42000.0,
-     "jeonse_ratio_pct": 69.1,
-     "jeonse_ratio_pooled_warning": null,
-     "jeonse_ratio_recent_pct": 70.0,
-     "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
-     "jeonse_recent_sample": [
-      257,
-      191
-     ],
-     "gap_man": 18750.0,
-     "gap_recent_man": 18000.0,
-     "median_excl_unregistered_man": 57575.0,
-     "fair_band_man": [
-      54675,
-      57712
-     ],
-     "bargain_band_man": [
-      51638,
-      54675
-     ],
-     "unregistered_count": 220,
-     "corporate_deal_count": 1,
-     "monthly": [
-      {
-       "month": "202605",
-       "complete": true,
-       "count": 131,
-       "median_man": 58000.0,
-       "min_man": 26000,
-       "max_man": 141000,
-       "p25_man": 47600.0,
-       "rent_count": 66,
-       "rent_median_man": 43000.0,
-       "jeonse_ratio_pct": 74.1,
-       "small_sample": false
-      },
-      {
-       "month": "202606",
-       "complete": true,
-       "count": 84,
-       "median_man": 58000.0,
-       "min_man": 34400,
-       "max_man": 153000,
-       "p25_man": 50775.0,
-       "rent_count": 73,
-       "rent_median_man": 42000.0,
-       "jeonse_ratio_pct": 72.4,
-       "small_sample": false
-      },
-      {
-       "month": "202607",
-       "complete": true,
-       "count": 98,
-       "median_man": 63900.0,
-       "min_man": 30000,
-       "max_man": 149000,
-       "p25_man": 50000.0,
-       "rent_count": 60,
-       "rent_median_man": 42000.0,
-       "jeonse_ratio_pct": 65.7,
-       "small_sample": false
-      },
-      {
-       "month": "202608",
-       "complete": true,
-       "count": 75,
-       "median_man": 58500.0,
-       "min_man": 32800,
-       "max_man": 148000,
-       "p25_man": 49000.0,
-       "rent_count": 58,
-       "rent_median_man": 40500.0,
-       "jeonse_ratio_pct": 69.2,
-       "small_sample": false
-      },
-      {
-       "month": "202609",
-       "complete": false,
-       "count": 64,
-       "median_man": 63000.0,
-       "min_man": 34000,
-       "max_man": 153000,
-       "p25_man": 49375.0,
-       "rent_count": 40,
-       "rent_median_man": 43000.0,
-       "jeonse_ratio_pct": 68.3,
-       "small_sample": false
-      },
-      {
-       "month": "202610",
-       "complete": false,
-       "count": 12,
-       "median_man": 66750.0,
-       "min_man": 47000,
-       "max_man": 144500,
-       "p25_man": 57625.0,
-       "rent_count": 11,
-       "rent_median_man": 39000.0,
-       "jeonse_ratio_pct": 58.4,
-       "small_sample": false
-      }
-     ],
-     "trend": {
-      "from": "202605",
-      "to": "202608",
-      "months_used": [
-       "202605",
-       "202606",
-       "202607",
-       "202608"
-      ],
-      "price_change_pct": 0.9,
-      "count_change_pct": -42.7,
-      "jeonse_ratio_change_pp": -4.9,
-      "p25_change_pct": 2.9,
-      "min_change_pct": 26.2,
-      "small_sample_months": []
-     },
-     "trend_basis": "202605~202608 (신고 완결 월)",
-     "trend_warning": null,
-     "name": "수원 장안구",
-     "lawd_cd": "41111"
-    },
-    {
      "label": "안산 상록구",
-     "count": 161,
+     "count": 164,
      "small_sample": false,
      "median_man": 49000.0,
      "min_man": 23500,
      "max_man": 79500,
      "p25_man": 41000.0,
-     "p75_man": 65000.0,
-     "rent_count": 169,
+     "p75_man": 65125.0,
+     "rent_count": 170,
      "rent_median_man": 30000.0,
      "jeonse_ratio_pct": 61.2,
      "jeonse_ratio_pooled_warning": null,
@@ -30308,7 +30447,7 @@
       41650,
       44100
      ],
-     "unregistered_count": 78,
+     "unregistered_count": 81,
      "corporate_deal_count": 1,
      "monthly": [
       {
@@ -30379,14 +30518,14 @@
       {
        "month": "202610",
        "complete": false,
-       "count": 7,
-       "median_man": 45000.0,
+       "count": 10,
+       "median_man": 46650.0,
        "min_man": 39000,
-       "max_man": 66500,
-       "p25_man": 40750.0,
-       "rent_count": 9,
-       "rent_median_man": 28000.0,
-       "jeonse_ratio_pct": 62.2,
+       "max_man": 67500,
+       "p25_man": 41125.0,
+       "rent_count": 10,
+       "rent_median_man": 27500.0,
+       "jeonse_ratio_pct": 58.9,
        "small_sample": false
       }
      ],
@@ -30412,15 +30551,148 @@
      "lawd_cd": "41271"
     },
     {
+     "label": "수원 장안구",
+     "count": 469,
+     "small_sample": false,
+     "median_man": 61500.0,
+     "min_man": 26000,
+     "max_man": 153000,
+     "p25_man": 49200.0,
+     "p75_man": 80000.0,
+     "rent_count": 311,
+     "rent_median_man": 42000.0,
+     "jeonse_ratio_pct": 68.3,
+     "jeonse_ratio_pooled_warning": null,
+     "jeonse_ratio_recent_pct": 70.0,
+     "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
+     "jeonse_recent_sample": [
+      257,
+      192
+     ],
+     "gap_man": 19500.0,
+     "gap_recent_man": 18000.0,
+     "median_excl_unregistered_man": 57600.0,
+     "fair_band_man": [
+      55350,
+      58425
+     ],
+     "bargain_band_man": [
+      52275,
+      55350
+     ],
+     "unregistered_count": 224,
+     "corporate_deal_count": 1,
+     "monthly": [
+      {
+       "month": "202605",
+       "complete": true,
+       "count": 131,
+       "median_man": 58000.0,
+       "min_man": 26000,
+       "max_man": 141000,
+       "p25_man": 47600.0,
+       "rent_count": 66,
+       "rent_median_man": 43000.0,
+       "jeonse_ratio_pct": 74.1,
+       "small_sample": false
+      },
+      {
+       "month": "202606",
+       "complete": true,
+       "count": 84,
+       "median_man": 58000.0,
+       "min_man": 34400,
+       "max_man": 153000,
+       "p25_man": 50775.0,
+       "rent_count": 73,
+       "rent_median_man": 42000.0,
+       "jeonse_ratio_pct": 72.4,
+       "small_sample": false
+      },
+      {
+       "month": "202607",
+       "complete": true,
+       "count": 98,
+       "median_man": 63900.0,
+       "min_man": 30000,
+       "max_man": 149000,
+       "p25_man": 50000.0,
+       "rent_count": 60,
+       "rent_median_man": 42000.0,
+       "jeonse_ratio_pct": 65.7,
+       "small_sample": false
+      },
+      {
+       "month": "202608",
+       "complete": true,
+       "count": 75,
+       "median_man": 58500.0,
+       "min_man": 32800,
+       "max_man": 148000,
+       "p25_man": 49000.0,
+       "rent_count": 59,
+       "rent_median_man": 41000.0,
+       "jeonse_ratio_pct": 70.1,
+       "small_sample": false
+      },
+      {
+       "month": "202609",
+       "complete": false,
+       "count": 64,
+       "median_man": 63000.0,
+       "min_man": 34000,
+       "max_man": 153000,
+       "p25_man": 49375.0,
+       "rent_count": 40,
+       "rent_median_man": 43000.0,
+       "jeonse_ratio_pct": 68.3,
+       "small_sample": false
+      },
+      {
+       "month": "202610",
+       "complete": false,
+       "count": 17,
+       "median_man": 70000.0,
+       "min_man": 47000,
+       "max_man": 149000,
+       "p25_man": 60000.0,
+       "rent_count": 13,
+       "rent_median_man": 39100.0,
+       "jeonse_ratio_pct": 55.9,
+       "small_sample": false
+      }
+     ],
+     "trend": {
+      "from": "202605",
+      "to": "202608",
+      "months_used": [
+       "202605",
+       "202606",
+       "202607",
+       "202608"
+      ],
+      "price_change_pct": 0.9,
+      "count_change_pct": -42.7,
+      "jeonse_ratio_change_pp": -4.0,
+      "p25_change_pct": 2.9,
+      "min_change_pct": 26.2,
+      "small_sample_months": []
+     },
+     "trend_basis": "202605~202608 (신고 완결 월)",
+     "trend_warning": null,
+     "name": "수원 장안구",
+     "lawd_cd": "41111"
+    },
+    {
      "label": "시흥시",
-     "count": 1047,
+     "count": 1051,
      "small_sample": false,
      "median_man": 54800.0,
      "min_man": 19000,
      "max_man": 83500,
      "p25_man": 40000.0,
      "p75_man": 60800.0,
-     "rent_count": 887,
+     "rent_count": 895,
      "rent_median_man": 35000.0,
      "jeonse_ratio_pct": 63.9,
      "jeonse_ratio_pooled_warning": null,
@@ -30432,7 +30704,7 @@
      ],
      "gap_man": 19800.0,
      "gap_recent_man": 19900.0,
-     "median_excl_unregistered_man": 53750.0,
+     "median_excl_unregistered_man": 53700.0,
      "fair_band_man": [
       49320,
       52060
@@ -30441,7 +30713,7 @@
       46580,
       49320
      ],
-     "unregistered_count": 493,
+     "unregistered_count": 496,
      "corporate_deal_count": 8,
      "monthly": [
       {
@@ -30504,7 +30776,7 @@
        "min_man": 23000,
        "max_man": 83500,
        "p25_man": 45000.0,
-       "rent_count": 144,
+       "rent_count": 145,
        "rent_median_man": 35000.0,
        "jeonse_ratio_pct": 61.7,
        "small_sample": false
@@ -30512,14 +30784,14 @@
       {
        "month": "202610",
        "complete": false,
-       "count": 46,
-       "median_man": 53400.0,
+       "count": 50,
+       "median_man": 53650.0,
        "min_man": 28000,
-       "max_man": 73500,
+       "max_man": 76000,
        "p25_man": 41025.0,
-       "rent_count": 43,
-       "rent_median_man": 37000.0,
-       "jeonse_ratio_pct": 69.3,
+       "rent_count": 50,
+       "rent_median_man": 35500.0,
+       "jeonse_ratio_pct": 66.2,
        "small_sample": false
       }
      ],
@@ -30545,36 +30817,169 @@
      "lawd_cd": "41390"
     },
     {
-     "label": "용인 기흥구",
-     "count": 1272,
+     "label": "남양주시",
+     "count": 2201,
      "small_sample": false,
-     "median_man": 61900.0,
+     "median_man": 51000.0,
+     "min_man": 16247,
+     "max_man": 139500,
+     "p25_man": 40000.0,
+     "p75_man": 76000.0,
+     "rent_count": 2548,
+     "rent_median_man": 31100.0,
+     "jeonse_ratio_pct": 61.0,
+     "jeonse_ratio_pooled_warning": "6개월 풀링값. 시점이 섞여 있으므로 jeonse_ratio_recent_pct 를 쓸 것.",
+     "jeonse_ratio_recent_pct": 67.3,
+     "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
+     "jeonse_recent_sample": [
+      1358,
+      1202
+     ],
+     "gap_man": 19900.0,
+     "gap_recent_man": 17000.0,
+     "median_excl_unregistered_man": 50000.0,
+     "fair_band_man": [
+      45900,
+      48450
+     ],
+     "bargain_band_man": [
+      43350,
+      45900
+     ],
+     "unregistered_count": 1094,
+     "corporate_deal_count": 10,
+     "monthly": [
+      {
+       "month": "202605",
+       "complete": true,
+       "count": 465,
+       "median_man": 54000.0,
+       "min_man": 16247,
+       "max_man": 120000,
+       "p25_man": 40500.0,
+       "rent_count": 448,
+       "rent_median_man": 38000.0,
+       "jeonse_ratio_pct": 70.4,
+       "small_sample": false
+      },
+      {
+       "month": "202606",
+       "complete": true,
+       "count": 496,
+       "median_man": 57000.0,
+       "min_man": 18000,
+       "max_man": 123000,
+       "p25_man": 40000.0,
+       "rent_count": 409,
+       "rent_median_man": 34000.0,
+       "jeonse_ratio_pct": 59.6,
+       "small_sample": false
+      },
+      {
+       "month": "202607",
+       "complete": true,
+       "count": 485,
+       "median_man": 54000.0,
+       "min_man": 18000,
+       "max_man": 132500,
+       "p25_man": 41500.0,
+       "rent_count": 430,
+       "rent_median_man": 36700.0,
+       "jeonse_ratio_pct": 68.0,
+       "small_sample": false
+      },
+      {
+       "month": "202608",
+       "complete": true,
+       "count": 377,
+       "median_man": 48500.0,
+       "min_man": 20000,
+       "max_man": 139500,
+       "p25_man": 40000.0,
+       "rent_count": 363,
+       "rent_median_man": 34500.0,
+       "jeonse_ratio_pct": 71.1,
+       "small_sample": false
+      },
+      {
+       "month": "202609",
+       "complete": false,
+       "count": 298,
+       "median_man": 49000.0,
+       "min_man": 19000,
+       "max_man": 120000,
+       "p25_man": 39500.0,
+       "rent_count": 749,
+       "rent_median_man": 30211.0,
+       "jeonse_ratio_pct": 61.7,
+       "small_sample": false
+      },
+      {
+       "month": "202610",
+       "complete": false,
+       "count": 80,
+       "median_man": 45650.0,
+       "min_man": 22500,
+       "max_man": 121000,
+       "p25_man": 35225.0,
+       "rent_count": 149,
+       "rent_median_man": 30211.0,
+       "jeonse_ratio_pct": 66.2,
+       "small_sample": false
+      }
+     ],
+     "trend": {
+      "from": "202605",
+      "to": "202608",
+      "months_used": [
+       "202605",
+       "202606",
+       "202607",
+       "202608"
+      ],
+      "price_change_pct": -10.2,
+      "count_change_pct": -18.9,
+      "jeonse_ratio_change_pp": 0.7,
+      "p25_change_pct": -1.2,
+      "min_change_pct": 23.1,
+      "small_sample_months": []
+     },
+     "trend_basis": "202605~202608 (신고 완결 월)",
+     "trend_warning": null,
+     "name": "남양주시",
+     "lawd_cd": "41360"
+    },
+    {
+     "label": "용인 기흥구",
+     "count": 1279,
+     "small_sample": false,
+     "median_man": 62000.0,
      "min_man": 24500,
      "max_man": 158000,
      "p25_man": 45500.0,
-     "p75_man": 83500.0,
-     "rent_count": 1114,
+     "p75_man": 84000.0,
+     "rent_count": 1121,
      "rent_median_man": 42000.0,
-     "jeonse_ratio_pct": 67.9,
+     "jeonse_ratio_pct": 67.7,
      "jeonse_ratio_pooled_warning": null,
      "jeonse_ratio_recent_pct": 65.2,
      "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
      "jeonse_recent_sample": [
-      746,
+      747,
       658
      ],
-     "gap_man": 19900.0,
+     "gap_man": 20000.0,
      "gap_recent_man": 22250.0,
      "median_excl_unregistered_man": 60000.0,
      "fair_band_man": [
-      55710,
-      58805
+      55800,
+      58900
      ],
      "bargain_band_man": [
-      52615,
-      55710
+      52700,
+      55800
      ],
-     "unregistered_count": 519,
+     "unregistered_count": 522,
      "corporate_deal_count": 13,
      "monthly": [
       {
@@ -30593,7 +30998,7 @@
       {
        "month": "202606",
        "complete": true,
-       "count": 543,
+       "count": 544,
        "median_man": 65000.0,
        "min_man": 25100,
        "max_man": 158000,
@@ -30632,27 +31037,27 @@
       {
        "month": "202609",
        "complete": false,
-       "count": 128,
-       "median_man": 56250.0,
+       "count": 130,
+       "median_man": 56650.0,
        "min_man": 25000,
        "max_man": 157000,
-       "p25_man": 42750.0,
+       "p25_man": 43000.0,
        "rent_count": 194,
        "rent_median_man": 43000.0,
-       "jeonse_ratio_pct": 76.4,
+       "jeonse_ratio_pct": 75.9,
        "small_sample": false
       },
       {
        "month": "202610",
        "complete": false,
-       "count": 28,
-       "median_man": 51350.0,
+       "count": 32,
+       "median_man": 54750.0,
        "min_man": 31800,
        "max_man": 124500,
-       "p25_man": 42375.0,
-       "rent_count": 45,
-       "rent_median_man": 45000.0,
-       "jeonse_ratio_pct": 87.6,
+       "p25_man": 42500.0,
+       "rent_count": 52,
+       "rent_median_man": 44500.0,
+       "jeonse_ratio_pct": 81.3,
        "small_sample": false
       }
      ],
@@ -30678,287 +31083,17 @@
      "lawd_cd": "41463"
     },
     {
-     "label": "남양주시",
-     "count": 2187,
-     "small_sample": false,
-     "median_man": 51000.0,
-     "min_man": 16247,
-     "max_man": 139500,
-     "p25_man": 40000.0,
-     "p75_man": 76000.0,
-     "rent_count": 2528,
-     "rent_median_man": 31000.0,
-     "jeonse_ratio_pct": 60.8,
-     "jeonse_ratio_pooled_warning": "6개월 풀링값. 시점이 섞여 있으므로 jeonse_ratio_recent_pct 를 쓸 것.",
-     "jeonse_ratio_recent_pct": 67.3,
-     "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
-     "jeonse_recent_sample": [
-      1358,
-      1200
-     ],
-     "gap_man": 20000.0,
-     "gap_recent_man": 17000.0,
-     "median_excl_unregistered_man": 50000.0,
-     "fair_band_man": [
-      45900,
-      48450
-     ],
-     "bargain_band_man": [
-      43350,
-      45900
-     ],
-     "unregistered_count": 1081,
-     "corporate_deal_count": 10,
-     "monthly": [
-      {
-       "month": "202605",
-       "complete": true,
-       "count": 465,
-       "median_man": 54000.0,
-       "min_man": 16247,
-       "max_man": 120000,
-       "p25_man": 40500.0,
-       "rent_count": 448,
-       "rent_median_man": 38000.0,
-       "jeonse_ratio_pct": 70.4,
-       "small_sample": false
-      },
-      {
-       "month": "202606",
-       "complete": true,
-       "count": 496,
-       "median_man": 57000.0,
-       "min_man": 18000,
-       "max_man": 123000,
-       "p25_man": 40000.0,
-       "rent_count": 409,
-       "rent_median_man": 34000.0,
-       "jeonse_ratio_pct": 59.6,
-       "small_sample": false
-      },
-      {
-       "month": "202607",
-       "complete": true,
-       "count": 485,
-       "median_man": 54000.0,
-       "min_man": 18000,
-       "max_man": 132500,
-       "p25_man": 41500.0,
-       "rent_count": 429,
-       "rent_median_man": 36700.0,
-       "jeonse_ratio_pct": 68.0,
-       "small_sample": false
-      },
-      {
-       "month": "202608",
-       "complete": true,
-       "count": 377,
-       "median_man": 48500.0,
-       "min_man": 20000,
-       "max_man": 139500,
-       "p25_man": 40000.0,
-       "rent_count": 362,
-       "rent_median_man": 34500.0,
-       "jeonse_ratio_pct": 71.1,
-       "small_sample": false
-      },
-      {
-       "month": "202609",
-       "complete": false,
-       "count": 295,
-       "median_man": 49000.0,
-       "min_man": 19000,
-       "max_man": 120000,
-       "p25_man": 39500.0,
-       "rent_count": 744,
-       "rent_median_man": 30211.0,
-       "jeonse_ratio_pct": 61.7,
-       "small_sample": false
-      },
-      {
-       "month": "202610",
-       "complete": false,
-       "count": 69,
-       "median_man": 45600.0,
-       "min_man": 22500,
-       "max_man": 117800,
-       "p25_man": 36300.0,
-       "rent_count": 136,
-       "rent_median_man": 30211.0,
-       "jeonse_ratio_pct": 66.3,
-       "small_sample": false
-      }
-     ],
-     "trend": {
-      "from": "202605",
-      "to": "202608",
-      "months_used": [
-       "202605",
-       "202606",
-       "202607",
-       "202608"
-      ],
-      "price_change_pct": -10.2,
-      "count_change_pct": -18.9,
-      "jeonse_ratio_change_pp": 0.7,
-      "p25_change_pct": -1.2,
-      "min_change_pct": 23.1,
-      "small_sample_months": []
-     },
-     "trend_basis": "202605~202608 (신고 완결 월)",
-     "trend_warning": null,
-     "name": "남양주시",
-     "lawd_cd": "41360"
-    },
-    {
-     "label": "부천시",
-     "count": 1049,
-     "small_sample": false,
-     "median_man": 67000.0,
-     "min_man": 26000,
-     "max_man": 142000,
-     "p25_man": 56800.0,
-     "p75_man": 77700.0,
-     "rent_count": 563,
-     "rent_median_man": 45000.0,
-     "jeonse_ratio_pct": 67.2,
-     "jeonse_ratio_pooled_warning": null,
-     "jeonse_ratio_recent_pct": 67.2,
-     "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
-     "jeonse_recent_sample": [
-      637,
-      330
-     ],
-     "gap_man": 22000.0,
-     "gap_recent_man": 22000.0,
-     "median_excl_unregistered_man": 65500.0,
-     "fair_band_man": [
-      60300,
-      63650
-     ],
-     "bargain_band_man": [
-      56950,
-      60300
-     ],
-     "unregistered_count": 596,
-     "corporate_deal_count": 6,
-     "monthly": [
-      {
-       "month": "202605",
-       "complete": true,
-       "count": 215,
-       "median_man": 66700.0,
-       "min_man": 30000,
-       "max_man": 139200,
-       "p25_man": 57500.0,
-       "rent_count": 112,
-       "rent_median_man": 45000.0,
-       "jeonse_ratio_pct": 67.5,
-       "small_sample": false
-      },
-      {
-       "month": "202606",
-       "complete": true,
-       "count": 216,
-       "median_man": 66500.0,
-       "min_man": 36900,
-       "max_man": 137500,
-       "p25_man": 55987.5,
-       "rent_count": 117,
-       "rent_median_man": 43000.0,
-       "jeonse_ratio_pct": 64.7,
-       "small_sample": false
-      },
-      {
-       "month": "202607",
-       "complete": true,
-       "count": 223,
-       "median_man": 67000.0,
-       "min_man": 28000,
-       "max_man": 139000,
-       "p25_man": 57500.0,
-       "rent_count": 117,
-       "rent_median_man": 45000.0,
-       "jeonse_ratio_pct": 67.2,
-       "small_sample": false
-      },
-      {
-       "month": "202608",
-       "complete": true,
-       "count": 198,
-       "median_man": 67250.0,
-       "min_man": 26000,
-       "max_man": 139500,
-       "p25_man": 55350.0,
-       "rent_count": 96,
-       "rent_median_man": 47000.0,
-       "jeonse_ratio_pct": 69.9,
-       "small_sample": false
-      },
-      {
-       "month": "202609",
-       "complete": false,
-       "count": 167,
-       "median_man": 70000.0,
-       "min_man": 31000,
-       "max_man": 142000,
-       "p25_man": 57700.0,
-       "rent_count": 98,
-       "rent_median_man": 47100.0,
-       "jeonse_ratio_pct": 67.3,
-       "small_sample": false
-      },
-      {
-       "month": "202610",
-       "complete": false,
-       "count": 30,
-       "median_man": 61250.0,
-       "min_man": 32000,
-       "max_man": 82500,
-       "p25_man": 57200.0,
-       "rent_count": 23,
-       "rent_median_man": 50000.0,
-       "jeonse_ratio_pct": 81.6,
-       "small_sample": false
-      }
-     ],
-     "trend": {
-      "from": "202605",
-      "to": "202608",
-      "months_used": [
-       "202605",
-       "202606",
-       "202607",
-       "202608"
-      ],
-      "price_change_pct": 0.8,
-      "count_change_pct": -7.9,
-      "jeonse_ratio_change_pp": 2.4,
-      "p25_change_pct": -3.7,
-      "min_change_pct": -13.3,
-      "small_sample_months": []
-     },
-     "trend_basis": "202605~202608 (신고 완결 월)",
-     "trend_warning": null,
-     "name": "부천시",
-     "lawd_cd": [
-      "41192",
-      "41194",
-      "41196"
-     ]
-    },
-    {
      "label": "수원 권선구",
-     "count": 1048,
+     "count": 1063,
      "small_sample": false,
      "median_man": 58000.0,
      "min_man": 22000,
      "max_man": 96000,
-     "p25_man": 43225.0,
+     "p25_man": 43000.0,
      "p75_man": 67300.0,
-     "rent_count": 483,
-     "rent_median_man": 36000.0,
-     "jeonse_ratio_pct": 62.1,
+     "rent_count": 489,
+     "rent_median_man": 36200.0,
+     "jeonse_ratio_pct": 62.4,
      "jeonse_ratio_pooled_warning": null,
      "jeonse_ratio_recent_pct": 60.5,
      "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
@@ -30966,7 +31101,7 @@
       656,
       289
      ],
-     "gap_man": 22000.0,
+     "gap_man": 21800.0,
      "gap_recent_man": 23300.0,
      "median_excl_unregistered_man": 55000.0,
      "fair_band_man": [
@@ -30977,7 +31112,7 @@
       49300,
       52200
      ],
-     "unregistered_count": 573,
+     "unregistered_count": 587,
      "corporate_deal_count": 5,
      "monthly": [
       {
@@ -31035,27 +31170,27 @@
       {
        "month": "202609",
        "complete": false,
-       "count": 185,
-       "median_man": 54000.0,
+       "count": 187,
+       "median_man": 53450.0,
        "min_man": 27000,
        "max_man": 96000,
-       "p25_man": 41500.0,
+       "p25_man": 41250.0,
        "rent_count": 77,
        "rent_median_man": 40000.0,
-       "jeonse_ratio_pct": 74.1,
+       "jeonse_ratio_pct": 74.8,
        "small_sample": false
       },
       {
        "month": "202610",
        "complete": false,
-       "count": 31,
-       "median_man": 56700.0,
-       "min_man": 36000,
+       "count": 44,
+       "median_man": 55500.0,
+       "min_man": 31500,
        "max_man": 93000,
-       "p25_man": 45750.0,
-       "rent_count": 20,
-       "rent_median_man": 34900.0,
-       "jeonse_ratio_pct": 61.6,
+       "p25_man": 43725.0,
+       "rent_count": 26,
+       "rent_median_man": 36600.0,
+       "jeonse_ratio_pct": 65.9,
        "small_sample": false
       }
      ],
@@ -31081,15 +31216,152 @@
      "lawd_cd": "41113"
     },
     {
+     "label": "부천시",
+     "count": 1058,
+     "small_sample": false,
+     "median_man": 67000.0,
+     "min_man": 26000,
+     "max_man": 142000,
+     "p25_man": 56800.0,
+     "p75_man": 77800.0,
+     "rent_count": 565,
+     "rent_median_man": 45000.0,
+     "jeonse_ratio_pct": 67.2,
+     "jeonse_ratio_pooled_warning": null,
+     "jeonse_ratio_recent_pct": 67.2,
+     "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
+     "jeonse_recent_sample": [
+      637,
+      331
+     ],
+     "gap_man": 22000.0,
+     "gap_recent_man": 22000.0,
+     "median_excl_unregistered_man": 65500.0,
+     "fair_band_man": [
+      60300,
+      63650
+     ],
+     "bargain_band_man": [
+      56950,
+      60300
+     ],
+     "unregistered_count": 600,
+     "corporate_deal_count": 6,
+     "monthly": [
+      {
+       "month": "202605",
+       "complete": true,
+       "count": 215,
+       "median_man": 66700.0,
+       "min_man": 30000,
+       "max_man": 139200,
+       "p25_man": 57500.0,
+       "rent_count": 112,
+       "rent_median_man": 45000.0,
+       "jeonse_ratio_pct": 67.5,
+       "small_sample": false
+      },
+      {
+       "month": "202606",
+       "complete": true,
+       "count": 216,
+       "median_man": 66500.0,
+       "min_man": 36900,
+       "max_man": 137500,
+       "p25_man": 55987.5,
+       "rent_count": 117,
+       "rent_median_man": 43000.0,
+       "jeonse_ratio_pct": 64.7,
+       "small_sample": false
+      },
+      {
+       "month": "202607",
+       "complete": true,
+       "count": 223,
+       "median_man": 67000.0,
+       "min_man": 28000,
+       "max_man": 139000,
+       "p25_man": 57500.0,
+       "rent_count": 117,
+       "rent_median_man": 45000.0,
+       "jeonse_ratio_pct": 67.2,
+       "small_sample": false
+      },
+      {
+       "month": "202608",
+       "complete": true,
+       "count": 198,
+       "median_man": 67250.0,
+       "min_man": 26000,
+       "max_man": 139500,
+       "p25_man": 55350.0,
+       "rent_count": 97,
+       "rent_median_man": 47000.0,
+       "jeonse_ratio_pct": 69.9,
+       "small_sample": false
+      },
+      {
+       "month": "202609",
+       "complete": false,
+       "count": 170,
+       "median_man": 70000.0,
+       "min_man": 31000,
+       "max_man": 142000,
+       "p25_man": 57650.0,
+       "rent_count": 98,
+       "rent_median_man": 47100.0,
+       "jeonse_ratio_pct": 67.3,
+       "small_sample": false
+      },
+      {
+       "month": "202610",
+       "complete": false,
+       "count": 36,
+       "median_man": 62250.0,
+       "min_man": 32000,
+       "max_man": 100500,
+       "p25_man": 57600.0,
+       "rent_count": 24,
+       "rent_median_man": 50500.0,
+       "jeonse_ratio_pct": 81.1,
+       "small_sample": false
+      }
+     ],
+     "trend": {
+      "from": "202605",
+      "to": "202608",
+      "months_used": [
+       "202605",
+       "202606",
+       "202607",
+       "202608"
+      ],
+      "price_change_pct": 0.8,
+      "count_change_pct": -7.9,
+      "jeonse_ratio_change_pp": 2.4,
+      "p25_change_pct": -3.7,
+      "min_change_pct": -13.3,
+      "small_sample_months": []
+     },
+     "trend_basis": "202605~202608 (신고 완결 월)",
+     "trend_warning": null,
+     "name": "부천시",
+     "lawd_cd": [
+      "41192",
+      "41194",
+      "41196"
+     ]
+    },
+    {
      "label": "고양 덕양구",
-     "count": 1011,
+     "count": 1019,
      "small_sample": false,
      "median_man": 73000.0,
      "min_man": 20000,
      "max_man": 136000,
-     "p25_man": 56000.0,
+     "p25_man": 55800.0,
      "p75_man": 87000.0,
-     "rent_count": 835,
+     "rent_count": 843,
      "rent_median_man": 48000.0,
      "jeonse_ratio_pct": 65.8,
      "jeonse_ratio_pooled_warning": null,
@@ -31097,7 +31369,7 @@
      "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
      "jeonse_recent_sample": [
       568,
-      483
+      484
      ],
      "gap_man": 25000.0,
      "gap_recent_man": 27500.0,
@@ -31110,7 +31382,7 @@
       62050,
       65700
      ],
-     "unregistered_count": 509,
+     "unregistered_count": 517,
      "corporate_deal_count": 7,
      "monthly": [
       {
@@ -31147,7 +31419,7 @@
        "min_man": 26000,
        "max_man": 135000,
        "p25_man": 58575.0,
-       "rent_count": 154,
+       "rent_count": 155,
        "rent_median_man": 48000.0,
        "jeonse_ratio_pct": 64.0,
        "small_sample": false
@@ -31168,12 +31440,12 @@
       {
        "month": "202609",
        "complete": false,
-       "count": 160,
+       "count": 162,
        "median_man": 64350.0,
        "min_man": 20800,
        "max_man": 135000,
-       "p25_man": 52875.0,
-       "rent_count": 126,
+       "p25_man": 52625.0,
+       "rent_count": 129,
        "rent_median_man": 48000.0,
        "jeonse_ratio_pct": 74.6,
        "small_sample": false
@@ -31181,14 +31453,14 @@
       {
        "month": "202610",
        "complete": false,
-       "count": 42,
-       "median_man": 64250.0,
+       "count": 48,
+       "median_man": 63500.0,
        "min_man": 28000,
        "max_man": 133500,
-       "p25_man": 55150.0,
-       "rent_count": 45,
-       "rent_median_man": 49000.0,
-       "jeonse_ratio_pct": 76.3,
+       "p25_man": 52375.0,
+       "rent_count": 49,
+       "rent_median_man": 46000.0,
+       "jeonse_ratio_pct": 72.4,
        "small_sample": false
       }
      ],
@@ -31215,16 +31487,16 @@
     },
     {
      "label": "의왕시",
-     "count": 462,
+     "count": 463,
      "small_sample": false,
      "median_man": 78000.0,
      "min_man": 30000,
      "max_man": 161000,
-     "p25_man": 58000.0,
-     "p75_man": 96600.0,
-     "rent_count": 344,
-     "rent_median_man": 51725.0,
-     "jeonse_ratio_pct": 66.3,
+     "p25_man": 57900.0,
+     "p75_man": 96400.0,
+     "rent_count": 347,
+     "rent_median_man": 52000.0,
+     "jeonse_ratio_pct": 66.7,
      "jeonse_ratio_pooled_warning": null,
      "jeonse_ratio_recent_pct": 67.3,
      "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
@@ -31232,7 +31504,7 @@
       285,
       197
      ],
-     "gap_man": 26275.0,
+     "gap_man": 26000.0,
      "gap_recent_man": 25500.0,
      "median_excl_unregistered_man": 78800.0,
      "fair_band_man": [
@@ -31243,7 +31515,7 @@
       66300,
       70200
      ],
-     "unregistered_count": 201,
+     "unregistered_count": 202,
      "corporate_deal_count": 0,
      "monthly": [
       {
@@ -31314,15 +31586,15 @@
       {
        "month": "202610",
        "complete": false,
-       "count": 4,
-       "median_man": 104500.0,
-       "min_man": 64200,
+       "count": 5,
+       "median_man": 94000.0,
+       "min_man": 41000,
        "max_man": 115000,
-       "p25_man": 86550.0,
-       "rent_count": 13,
-       "rent_median_man": 48000.0,
-       "jeonse_ratio_pct": 45.9,
-       "small_sample": true
+       "p25_man": 64200.0,
+       "rent_count": 16,
+       "rent_median_man": 54250.0,
+       "jeonse_ratio_pct": 57.7,
+       "small_sample": false
       }
      ],
      "trend": {
@@ -31347,17 +31619,155 @@
      "lawd_cd": "41430"
     },
     {
-     "label": "수원 영통구",
-     "count": 765,
+     "label": "화성시",
+     "count": 3171,
      "small_sample": false,
-     "median_man": 82000.0,
+     "median_man": 61500.0,
+     "min_man": 14000,
+     "max_man": 222500,
+     "p25_man": 41950.0,
+     "p75_man": 80000.0,
+     "rent_count": 2684,
+     "rent_median_man": 33000.0,
+     "jeonse_ratio_pct": 53.7,
+     "jeonse_ratio_pooled_warning": null,
+     "jeonse_ratio_recent_pct": 55.9,
+     "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
+     "jeonse_recent_sample": [
+      1870,
+      1550
+     ],
+     "gap_man": 28500.0,
+     "gap_recent_man": 26450.0,
+     "median_excl_unregistered_man": 61800.0,
+     "fair_band_man": [
+      55350,
+      58425
+     ],
+     "bargain_band_man": [
+      52275,
+      55350
+     ],
+     "unregistered_count": 1415,
+     "corporate_deal_count": 33,
+     "monthly": [
+      {
+       "month": "202605",
+       "complete": true,
+       "count": 819,
+       "median_man": 68000.0,
+       "min_man": 18300,
+       "max_man": 205000,
+       "p25_man": 51700.0,
+       "rent_count": 546,
+       "rent_median_man": 33000.0,
+       "jeonse_ratio_pct": 48.5,
+       "small_sample": false
+      },
+      {
+       "month": "202606",
+       "complete": true,
+       "count": 1103,
+       "median_man": 70000.0,
+       "min_man": 19000,
+       "max_man": 222500,
+       "p25_man": 53900.0,
+       "rent_count": 476,
+       "rent_median_man": 35000.0,
+       "jeonse_ratio_pct": 50.0,
+       "small_sample": false
+      },
+      {
+       "month": "202607",
+       "complete": true,
+       "count": 446,
+       "median_man": 45000.0,
+       "min_man": 18700,
+       "max_man": 169000,
+       "p25_man": 35575.0,
+       "rent_count": 557,
+       "rent_median_man": 33000.0,
+       "jeonse_ratio_pct": 73.3,
+       "small_sample": false
+      },
+      {
+       "month": "202608",
+       "complete": true,
+       "count": 321,
+       "median_man": 45000.0,
+       "min_man": 14000,
+       "max_man": 165000,
+       "p25_man": 33000.0,
+       "rent_count": 517,
+       "rent_median_man": 32000.0,
+       "jeonse_ratio_pct": 71.1,
+       "small_sample": false
+      },
+      {
+       "month": "202609",
+       "complete": false,
+       "count": 372,
+       "median_man": 52000.0,
+       "min_man": 18500,
+       "max_man": 163500,
+       "p25_man": 38000.0,
+       "rent_count": 420,
+       "rent_median_man": 32000.0,
+       "jeonse_ratio_pct": 61.5,
+       "small_sample": false
+      },
+      {
+       "month": "202610",
+       "complete": false,
+       "count": 110,
+       "median_man": 48000.0,
+       "min_man": 22000,
+       "max_man": 132000,
+       "p25_man": 37575.0,
+       "rent_count": 168,
+       "rent_median_man": 34800.0,
+       "jeonse_ratio_pct": 72.5,
+       "small_sample": false
+      }
+     ],
+     "trend": {
+      "from": "202605",
+      "to": "202608",
+      "months_used": [
+       "202605",
+       "202606",
+       "202607",
+       "202608"
+      ],
+      "price_change_pct": -33.8,
+      "count_change_pct": -60.8,
+      "jeonse_ratio_change_pp": 22.6,
+      "p25_change_pct": -36.2,
+      "min_change_pct": -23.5,
+      "small_sample_months": []
+     },
+     "trend_basis": "202605~202608 (신고 완결 월)",
+     "trend_warning": null,
+     "name": "화성시",
+     "lawd_cd": [
+      "41591",
+      "41593",
+      "41595",
+      "41597"
+     ]
+    },
+    {
+     "label": "수원 영통구",
+     "count": 772,
+     "small_sample": false,
+     "median_man": 82550.0,
      "min_man": 32000,
      "max_man": 214000,
      "p25_man": 60000.0,
-     "p75_man": 108500.0,
-     "rent_count": 538,
-     "rent_median_man": 54300.0,
-     "jeonse_ratio_pct": 66.2,
+     "p75_man": 109062.5,
+     "rent_count": 541,
+     "rent_median_man": 54000.0,
+     "jeonse_ratio_pct": 65.4,
      "jeonse_ratio_pooled_warning": null,
      "jeonse_ratio_recent_pct": 64.9,
      "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
@@ -31365,18 +31775,18 @@
       462,
       321
      ],
-     "gap_man": 27700.0,
+     "gap_man": 28550.0,
      "gap_recent_man": 29750.0,
      "median_excl_unregistered_man": 78000.0,
      "fair_band_man": [
-      73800,
-      77900
+      74295,
+      78422
      ],
      "bargain_band_man": [
-      69700,
-      73800
+      70168,
+      74295
      ],
-     "unregistered_count": 371,
+     "unregistered_count": 378,
      "corporate_deal_count": 6,
      "monthly": [
       {
@@ -31434,11 +31844,11 @@
       {
        "month": "202609",
        "complete": false,
-       "count": 93,
+       "count": 95,
        "median_man": 82000.0,
        "min_man": 42500,
        "max_man": 214000,
-       "p25_man": 59800.0,
+       "p25_man": 59900.0,
        "rent_count": 72,
        "rent_median_man": 54800.0,
        "jeonse_ratio_pct": 66.8,
@@ -31447,14 +31857,14 @@
       {
        "month": "202610",
        "complete": false,
-       "count": 20,
-       "median_man": 76200.0,
+       "count": 25,
+       "median_man": 88500.0,
        "min_man": 50000,
        "max_man": 212500,
-       "p25_man": 58125.0,
-       "rent_count": 25,
+       "p25_man": 62000.0,
+       "rent_count": 28,
        "rent_median_man": 48000.0,
-       "jeonse_ratio_pct": 63.0,
+       "jeonse_ratio_pct": 54.2,
        "small_sample": false
       }
      ],
@@ -31480,144 +31890,6 @@
      "lawd_cd": "41117"
     },
     {
-     "label": "화성시",
-     "count": 3148,
-     "small_sample": false,
-     "median_man": 61500.0,
-     "min_man": 14000,
-     "max_man": 222500,
-     "p25_man": 42000.0,
-     "p75_man": 80000.0,
-     "rent_count": 2665,
-     "rent_median_man": 33000.0,
-     "jeonse_ratio_pct": 53.7,
-     "jeonse_ratio_pooled_warning": null,
-     "jeonse_ratio_recent_pct": 56.0,
-     "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
-     "jeonse_recent_sample": [
-      1869,
-      1549
-     ],
-     "gap_man": 28500.0,
-     "gap_recent_man": 26400.0,
-     "median_excl_unregistered_man": 61800.0,
-     "fair_band_man": [
-      55350,
-      58425
-     ],
-     "bargain_band_man": [
-      52275,
-      55350
-     ],
-     "unregistered_count": 1394,
-     "corporate_deal_count": 33,
-     "monthly": [
-      {
-       "month": "202605",
-       "complete": true,
-       "count": 819,
-       "median_man": 68000.0,
-       "min_man": 18300,
-       "max_man": 205000,
-       "p25_man": 51700.0,
-       "rent_count": 546,
-       "rent_median_man": 33000.0,
-       "jeonse_ratio_pct": 48.5,
-       "small_sample": false
-      },
-      {
-       "month": "202606",
-       "complete": true,
-       "count": 1103,
-       "median_man": 70000.0,
-       "min_man": 19000,
-       "max_man": 222500,
-       "p25_man": 53900.0,
-       "rent_count": 476,
-       "rent_median_man": 35000.0,
-       "jeonse_ratio_pct": 50.0,
-       "small_sample": false
-      },
-      {
-       "month": "202607",
-       "complete": true,
-       "count": 446,
-       "median_man": 45000.0,
-       "min_man": 18700,
-       "max_man": 169000,
-       "p25_man": 35575.0,
-       "rent_count": 556,
-       "rent_median_man": 33000.0,
-       "jeonse_ratio_pct": 73.3,
-       "small_sample": false
-      },
-      {
-       "month": "202608",
-       "complete": true,
-       "count": 320,
-       "median_man": 45000.0,
-       "min_man": 14000,
-       "max_man": 165000,
-       "p25_man": 33000.0,
-       "rent_count": 517,
-       "rent_median_man": 32000.0,
-       "jeonse_ratio_pct": 71.1,
-       "small_sample": false
-      },
-      {
-       "month": "202609",
-       "complete": false,
-       "count": 364,
-       "median_man": 51350.0,
-       "min_man": 18500,
-       "max_man": 163500,
-       "p25_man": 38000.0,
-       "rent_count": 417,
-       "rent_median_man": 32000.0,
-       "jeonse_ratio_pct": 62.3,
-       "small_sample": false
-      },
-      {
-       "month": "202610",
-       "complete": false,
-       "count": 96,
-       "median_man": 48000.0,
-       "min_man": 22000,
-       "max_man": 132000,
-       "p25_man": 38150.0,
-       "rent_count": 153,
-       "rent_median_man": 35000.0,
-       "jeonse_ratio_pct": 72.9,
-       "small_sample": false
-      }
-     ],
-     "trend": {
-      "from": "202605",
-      "to": "202608",
-      "months_used": [
-       "202605",
-       "202606",
-       "202607",
-       "202608"
-      ],
-      "price_change_pct": -33.8,
-      "count_change_pct": -60.9,
-      "jeonse_ratio_change_pp": 22.6,
-      "p25_change_pct": -36.2,
-      "min_change_pct": -23.5,
-      "small_sample_months": []
-     },
-     "trend_basis": "202605~202608 (신고 완결 월)",
-     "trend_warning": null,
-     "name": "화성시",
-     "lawd_cd": [
-      "41591",
-      "41593",
-      "41595",
-      "41597"
-     ]
-    },
-    {
      "label": "수원 팔달구",
      "count": 340,
      "small_sample": false,
@@ -31626,7 +31898,7 @@
      "max_man": 119000,
      "p25_man": 58500.0,
      "p75_man": 93000.0,
-     "rent_count": 265,
+     "rent_count": 267,
      "rent_median_man": 45000.0,
      "jeonse_ratio_pct": 60.2,
      "jeonse_ratio_pooled_warning": null,
@@ -31638,7 +31910,7 @@
      ],
      "gap_man": 29750.0,
      "gap_recent_man": 29300.0,
-     "median_excl_unregistered_man": 73350.0,
+     "median_excl_unregistered_man": 73500.0,
      "fair_band_man": [
       67275,
       71012
@@ -31647,7 +31919,7 @@
       63538,
       67275
      ],
-     "unregistered_count": 152,
+     "unregistered_count": 151,
      "corporate_deal_count": 1,
      "monthly": [
       {
@@ -31723,9 +31995,9 @@
        "min_man": 48500,
        "max_man": 119000,
        "p25_man": 78125.0,
-       "rent_count": 20,
-       "rent_median_man": 55000.0,
-       "jeonse_ratio_pct": 53.4,
+       "rent_count": 22,
+       "rent_median_man": 54500.0,
+       "jeonse_ratio_pct": 52.9,
        "small_sample": false
       }
      ],
@@ -31752,16 +32024,16 @@
     },
     {
      "label": "광명시",
-     "count": 353,
+     "count": 355,
      "small_sample": false,
-     "median_man": 94700.0,
+     "median_man": 95000.0,
      "min_man": 39000,
      "max_man": 175000,
-     "p25_man": 78000.0,
-     "p75_man": 132000.0,
-     "rent_count": 397,
+     "p25_man": 78250.0,
+     "p75_man": 132500.0,
+     "rent_count": 404,
      "rent_median_man": 60000.0,
-     "jeonse_ratio_pct": 63.4,
+     "jeonse_ratio_pct": 63.2,
      "jeonse_ratio_pooled_warning": null,
      "jeonse_ratio_recent_pct": 62.9,
      "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
@@ -31769,18 +32041,18 @@
       191,
       239
      ],
-     "gap_man": 34700.0,
+     "gap_man": 35000.0,
      "gap_recent_man": 36000.0,
      "median_excl_unregistered_man": 85250.0,
      "fair_band_man": [
-      85230,
-      89965
+      85500,
+      90250
      ],
      "bargain_band_man": [
-      80495,
-      85230
+      80750,
+      85500
      ],
-     "unregistered_count": 141,
+     "unregistered_count": 143,
      "corporate_deal_count": 3,
      "monthly": [
       {
@@ -31838,27 +32110,27 @@
       {
        "month": "202609",
        "complete": false,
-       "count": 40,
-       "median_man": 95650.0,
+       "count": 41,
+       "median_man": 96300.0,
        "min_man": 39000,
        "max_man": 164000,
-       "p25_man": 79175.0,
+       "p25_man": 79400.0,
        "rent_count": 52,
        "rent_median_man": 56000.0,
-       "jeonse_ratio_pct": 58.5,
+       "jeonse_ratio_pct": 58.2,
        "small_sample": false
       },
       {
        "month": "202610",
        "complete": false,
-       "count": 3,
-       "median_man": 153500.0,
-       "min_man": 132000,
+       "count": 4,
+       "median_man": 142750.0,
+       "min_man": 97300,
        "max_man": 156500,
-       "p25_man": 142750.0,
-       "rent_count": 19,
-       "rent_median_man": 54600.0,
-       "jeonse_ratio_pct": 35.6,
+       "p25_man": 123325.0,
+       "rent_count": 26,
+       "rent_median_man": 55650.0,
+       "jeonse_ratio_pct": 39.0,
        "small_sample": true
       }
      ],
@@ -31885,13 +32157,13 @@
     },
     {
      "label": "성남 중원구",
-     "count": 202,
+     "count": 203,
      "small_sample": false,
      "median_man": 90000.0,
      "min_man": 46500,
      "max_man": 150000,
      "p25_man": 82500.0,
-     "p75_man": 111500.0,
+     "p75_man": 112500.0,
      "rent_count": 171,
      "rent_median_man": 54600.0,
      "jeonse_ratio_pct": 60.7,
@@ -31913,7 +32185,7 @@
       76500,
       81000
      ],
-     "unregistered_count": 95,
+     "unregistered_count": 96,
      "corporate_deal_count": 4,
      "monthly": [
       {
@@ -31971,14 +32243,14 @@
       {
        "month": "202609",
        "complete": false,
-       "count": 26,
-       "median_man": 99000.0,
+       "count": 27,
+       "median_man": 100000.0,
        "min_man": 60000,
        "max_man": 150000,
-       "p25_man": 88500.0,
+       "p25_man": 89000.0,
        "rent_count": 21,
        "rent_median_man": 52000.0,
-       "jeonse_ratio_pct": 52.5,
+       "jeonse_ratio_pct": 52.0,
        "small_sample": false
       },
       {
@@ -32018,14 +32290,14 @@
     },
     {
      "label": "안양 동안구",
-     "count": 613,
+     "count": 615,
      "small_sample": false,
      "median_man": 92000.0,
      "min_man": 36500,
      "max_man": 163700,
      "p25_man": 72500.0,
-     "p75_man": 116000.0,
-     "rent_count": 642,
+     "p75_man": 116250.0,
+     "rent_count": 650,
      "rent_median_man": 52500.0,
      "jeonse_ratio_pct": 57.1,
      "jeonse_ratio_pooled_warning": null,
@@ -32046,7 +32318,7 @@
       78200,
       82800
      ],
-     "unregistered_count": 258,
+     "unregistered_count": 260,
      "corporate_deal_count": 4,
      "monthly": [
       {
@@ -32104,27 +32376,27 @@
       {
        "month": "202609",
        "complete": false,
-       "count": 40,
+       "count": 41,
        "median_man": 85000.0,
        "min_man": 39500,
        "max_man": 149500,
-       "p25_man": 71625.0,
-       "rent_count": 75,
-       "rent_median_man": 52000.0,
-       "jeonse_ratio_pct": 61.2,
+       "p25_man": 69000.0,
+       "rent_count": 76,
+       "rent_median_man": 52250.0,
+       "jeonse_ratio_pct": 61.5,
        "small_sample": false
       },
       {
        "month": "202610",
        "complete": false,
-       "count": 1,
-       "median_man": 128700.0,
-       "min_man": 128700,
+       "count": 2,
+       "median_man": 125350.0,
+       "min_man": 122000,
        "max_man": 128700,
-       "p25_man": 128700.0,
-       "rent_count": 32,
-       "rent_median_man": 56800.0,
-       "jeonse_ratio_pct": 44.1,
+       "p25_man": 123675.0,
+       "rent_count": 39,
+       "rent_median_man": 53000.0,
+       "jeonse_ratio_pct": 42.3,
        "small_sample": true
       }
      ],
@@ -32151,35 +32423,35 @@
     },
     {
      "label": "용인 수지구",
-     "count": 766,
+     "count": 777,
      "small_sample": false,
-     "median_man": 104000.0,
+     "median_man": 104500.0,
      "min_man": 51000,
      "max_man": 190000,
      "p25_man": 87000.0,
-     "p75_man": 123000.0,
-     "rent_count": 840,
+     "p75_man": 124000.0,
+     "rent_count": 850,
      "rent_median_man": 60000.0,
-     "jeonse_ratio_pct": 57.7,
+     "jeonse_ratio_pct": 57.4,
      "jeonse_ratio_pooled_warning": null,
      "jeonse_ratio_recent_pct": 56.2,
      "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
      "jeonse_recent_sample": [
       475,
-      511
+      515
      ],
-     "gap_man": 44000.0,
+     "gap_man": 44500.0,
      "gap_recent_man": 46000.0,
      "median_excl_unregistered_man": 103000.0,
      "fair_band_man": [
-      93600,
-      98800
+      94050,
+      99275
      ],
      "bargain_band_man": [
-      88400,
-      93600
+      88825,
+      94050
      ],
-     "unregistered_count": 345,
+     "unregistered_count": 352,
      "corporate_deal_count": 0,
      "monthly": [
       {
@@ -32203,7 +32475,7 @@
        "min_man": 65500,
        "max_man": 178000,
        "p25_man": 84850.0,
-       "rent_count": 175,
+       "rent_count": 176,
        "rent_median_man": 59000.0,
        "jeonse_ratio_pct": 57.6,
        "small_sample": false
@@ -32216,9 +32488,9 @@
        "min_man": 70000,
        "max_man": 187000,
        "p25_man": 88725.0,
-       "rent_count": 174,
-       "rent_median_man": 59000.0,
-       "jeonse_ratio_pct": 55.7,
+       "rent_count": 176,
+       "rent_median_man": 58900.0,
+       "jeonse_ratio_pct": 55.6,
        "small_sample": false
       },
       {
@@ -32229,7 +32501,7 @@
        "min_man": 67000,
        "max_man": 190000,
        "p25_man": 90000.0,
-       "rent_count": 162,
+       "rent_count": 163,
        "rent_median_man": 60000.0,
        "jeonse_ratio_pct": 55.9,
        "small_sample": false
@@ -32237,27 +32509,27 @@
       {
        "month": "202609",
        "complete": false,
-       "count": 86,
+       "count": 91,
        "median_man": 97000.0,
        "min_man": 75000,
        "max_man": 184000,
        "p25_man": 89500.0,
-       "rent_count": 124,
-       "rent_median_man": 59925.0,
-       "jeonse_ratio_pct": 61.8,
+       "rent_count": 126,
+       "rent_median_man": 60000.0,
+       "jeonse_ratio_pct": 61.9,
        "small_sample": false
       },
       {
        "month": "202610",
        "complete": false,
-       "count": 11,
-       "median_man": 103000.0,
+       "count": 17,
+       "median_man": 111500.0,
        "min_man": 73000,
        "max_man": 160000,
-       "p25_man": 91000.0,
-       "rent_count": 39,
+       "p25_man": 95000.0,
+       "rent_count": 43,
        "rent_median_man": 60000.0,
-       "jeonse_ratio_pct": 58.3,
+       "jeonse_ratio_pct": 53.8,
        "small_sample": false
       }
      ],
@@ -32284,25 +32556,25 @@
     },
     {
      "label": "하남시",
-     "count": 508,
+     "count": 511,
      "small_sample": false,
      "median_man": 118000.0,
      "min_man": 35700,
      "max_man": 175000,
-     "p25_man": 90525.0,
+     "p25_man": 90350.0,
      "p75_man": 131000.0,
-     "rent_count": 743,
+     "rent_count": 746,
      "rent_median_man": 63000.0,
      "jeonse_ratio_pct": 53.4,
      "jeonse_ratio_pooled_warning": null,
-     "jeonse_ratio_recent_pct": 52.7,
+     "jeonse_ratio_recent_pct": 52.8,
      "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
      "jeonse_recent_sample": [
-      327,
+      328,
       439
      ],
      "gap_man": 55000.0,
-     "gap_recent_man": 56500.0,
+     "gap_recent_man": 56425.0,
      "median_excl_unregistered_man": 117150.0,
      "fair_band_man": [
       106200,
@@ -32312,7 +32584,7 @@
       100300,
       106200
      ],
-     "unregistered_count": 214,
+     "unregistered_count": 217,
      "corporate_deal_count": 3,
      "monthly": [
       {
@@ -32344,11 +32616,11 @@
       {
        "month": "202607",
        "complete": true,
-       "count": 112,
+       "count": 113,
        "median_man": 120000.0,
        "min_man": 49800,
        "max_man": 174000,
-       "p25_man": 91275.0,
+       "p25_man": 90000.0,
        "rent_count": 135,
        "rent_median_man": 63000.0,
        "jeonse_ratio_pct": 52.5,
@@ -32370,14 +32642,14 @@
       {
        "month": "202609",
        "complete": false,
-       "count": 50,
-       "median_man": 122250.0,
+       "count": 52,
+       "median_man": 121000.0,
        "min_man": 61000,
        "max_man": 170000,
-       "p25_man": 90000.0,
+       "p25_man": 91000.0,
        "rent_count": 110,
        "rent_median_man": 61950.0,
-       "jeonse_ratio_pct": 50.7,
+       "jeonse_ratio_pct": 51.2,
        "small_sample": false
       },
       {
@@ -32388,7 +32660,7 @@
        "min_man": 75000,
        "max_man": 148500,
        "p25_man": 114750.0,
-       "rent_count": 31,
+       "rent_count": 34,
        "rent_median_man": 63000.0,
        "jeonse_ratio_pct": 49.8,
        "small_sample": false
@@ -32417,35 +32689,35 @@
     },
     {
      "label": "성남 수정구",
-     "count": 201,
+     "count": 200,
      "small_sample": false,
-     "median_man": 127900.0,
+     "median_man": 127950.0,
      "min_man": 49500,
      "max_man": 226000,
-     "p25_man": 95000.0,
-     "p75_man": 151000.0,
-     "rent_count": 369,
+     "p25_man": 95375.0,
+     "p75_man": 151250.0,
+     "rent_count": 370,
      "rent_median_man": 64000.0,
      "jeonse_ratio_pct": 50.0,
      "jeonse_ratio_pooled_warning": null,
-     "jeonse_ratio_recent_pct": 52.0,
+     "jeonse_ratio_recent_pct": 51.8,
      "jeonse_recent_basis": "202606~202608 (신고 완결 월)",
      "jeonse_recent_sample": [
-      108,
-      221
+      107,
+      222
      ],
-     "gap_man": 63900.0,
-     "gap_recent_man": 61750.0,
+     "gap_man": 63950.0,
+     "gap_recent_man": 62400.0,
      "median_excl_unregistered_man": 125000.0,
      "fair_band_man": [
-      115110,
-      121505
+      115155,
+      121552
      ],
      "bargain_band_man": [
-      108715,
-      115110
+      108758,
+      115155
      ],
-     "unregistered_count": 68,
+     "unregistered_count": 67,
      "corporate_deal_count": 45,
      "monthly": [
       {
@@ -32482,22 +32754,22 @@
        "min_man": 57000,
        "max_man": 201800,
        "p25_man": 96000.0,
-       "rent_count": 61,
-       "rent_median_man": 75600.0,
-       "jeonse_ratio_pct": 59.5,
+       "rent_count": 62,
+       "rent_median_man": 76300.0,
+       "jeonse_ratio_pct": 60.1,
        "small_sample": false
       },
       {
        "month": "202608",
        "complete": true,
-       "count": 19,
-       "median_man": 134400.0,
+       "count": 18,
+       "median_man": 137550.0,
        "min_man": 60500,
        "max_man": 200000,
-       "p25_man": 102500.0,
+       "p25_man": 112000.0,
        "rent_count": 60,
        "rent_median_man": 70175.0,
-       "jeonse_ratio_pct": 52.2,
+       "jeonse_ratio_pct": 51.0,
        "small_sample": false
       },
       {
@@ -32536,10 +32808,10 @@
        "202607",
        "202608"
       ],
-      "price_change_pct": 4.4,
-      "count_change_pct": -75.6,
-      "jeonse_ratio_change_pp": 10.0,
-      "p25_change_pct": -1.9,
+      "price_change_pct": 6.8,
+      "count_change_pct": -76.9,
+      "jeonse_ratio_change_pp": 8.8,
+      "p25_change_pct": 7.2,
       "min_change_pct": 17.5,
       "small_sample_months": []
      },
@@ -32557,7 +32829,7 @@
      "max_man": 285000,
      "p25_man": 153250.0,
      "p75_man": 199650.0,
-     "rent_count": 764,
+     "rent_count": 772,
      "rent_median_man": 73000.0,
      "jeonse_ratio_pct": 40.6,
      "jeonse_ratio_pooled_warning": null,
@@ -32654,9 +32926,9 @@
        "min_man": 165000,
        "max_man": 185000,
        "p25_man": 170000.0,
-       "rent_count": 34,
-       "rent_median_man": 77500.0,
-       "jeonse_ratio_pct": 44.3,
+       "rent_count": 42,
+       "rent_median_man": 78270.0,
+       "jeonse_ratio_pct": 44.7,
        "small_sample": true
       }
      ],
@@ -32683,14 +32955,14 @@
     },
     {
      "label": "과천시",
-     "count": 54,
+     "count": 55,
      "small_sample": false,
      "median_man": 235000.0,
      "min_man": 140000,
      "max_man": 278000,
-     "p25_man": 205875.0,
-     "p75_man": 251875.0,
-     "rent_count": 185,
+     "p25_man": 206250.0,
+     "p75_man": 251250.0,
+     "rent_count": 188,
      "rent_median_man": 99000.0,
      "jeonse_ratio_pct": 42.1,
      "jeonse_ratio_pooled_warning": null,
@@ -32711,7 +32983,7 @@
       199750,
       211500
      ],
-     "unregistered_count": 21,
+     "unregistered_count": 22,
      "corporate_deal_count": 0,
      "monthly": [
       {
@@ -32769,15 +33041,15 @@
       {
        "month": "202609",
        "complete": false,
-       "count": 4,
-       "median_man": 188250.0,
+       "count": 5,
+       "median_man": 190000.0,
        "min_man": 172000,
        "max_man": 273000,
-       "p25_man": 182875.0,
-       "rent_count": 21,
+       "p25_man": 186500.0,
+       "rent_count": 22,
        "rent_median_man": 95000.0,
-       "jeonse_ratio_pct": 50.5,
-       "small_sample": true
+       "jeonse_ratio_pct": 50.0,
+       "small_sample": false
       },
       {
        "month": "202610",
@@ -32787,7 +33059,7 @@
        "min_man": null,
        "max_man": null,
        "p25_man": null,
-       "rent_count": 13,
+       "rent_count": 15,
        "rent_median_man": 105000.0,
        "jeonse_ratio_pct": null,
        "small_sample": true
@@ -32821,168 +33093,168 @@
      "gap_man": 5000.0,
      "jeonse_ratio_pct": 83.3,
      "median_man": 30000.0,
-     "count": 355
+     "count": 358
     },
     {
      "name": "파주시",
      "gap_man": 9500.0,
      "jeonse_ratio_pct": 75.9,
      "median_man": 39500.0,
-     "count": 1010
+     "count": 1022
     },
     {
      "name": "고양 일산서구",
      "gap_man": 10500.0,
      "jeonse_ratio_pct": 75.0,
      "median_man": 42000.0,
-     "count": 412
+     "count": 415
     },
     {
      "name": "광주시",
      "gap_man": 11500.0,
      "jeonse_ratio_pct": 74.2,
      "median_man": 44500.0,
-     "count": 820
+     "count": 827
     },
     {
      "name": "군포시",
-     "gap_man": 11600.0,
-     "jeonse_ratio_pct": 78.8,
-     "median_man": 54600.0,
-     "count": 358
+     "gap_man": 11700.0,
+     "jeonse_ratio_pct": 78.6,
+     "median_man": 54700.0,
+     "count": 363
     },
     {
      "name": "김포시",
      "gap_man": 11950.0,
      "jeonse_ratio_pct": 73.7,
      "median_man": 45450.0,
-     "count": 832
+     "count": 842
     },
     {
      "name": "의정부시",
      "gap_man": 12000.0,
      "jeonse_ratio_pct": 71.4,
      "median_man": 42000.0,
-     "count": 790
+     "count": 804
     },
     {
      "name": "오산시",
      "gap_man": 12500.0,
      "jeonse_ratio_pct": 70.6,
      "median_man": 42500.0,
-     "count": 726
+     "count": 732
     },
     {
      "name": "평택시",
      "gap_man": 13000.0,
      "jeonse_ratio_pct": 65.8,
      "median_man": 38000.0,
-     "count": 1316
+     "count": 1351
     },
     {
      "name": "용인 처인구",
-     "gap_man": 15000.0,
-     "jeonse_ratio_pct": 65.9,
+     "gap_man": 14600.0,
+     "jeonse_ratio_pct": 66.8,
      "median_man": 44000.0,
-     "count": 452
+     "count": 455
     },
     {
      "name": "고양 일산동구",
      "gap_man": 17000.0,
      "jeonse_ratio_pct": 71.2,
      "median_man": 59000.0,
-     "count": 342
+     "count": 354
     },
     {
      "name": "안산 단원구",
-     "gap_man": 17125.0,
-     "jeonse_ratio_pct": 67.8,
-     "median_man": 53125.0,
-     "count": 312
+     "gap_man": 17000.0,
+     "jeonse_ratio_pct": 67.9,
+     "median_man": 53000.0,
+     "count": 315
     },
     {
      "name": "안양 만안구",
-     "gap_man": 17150.0,
-     "jeonse_ratio_pct": 72.4,
-     "median_man": 62150.0,
-     "count": 382
-    },
-    {
-     "name": "수원 장안구",
-     "gap_man": 18750.0,
-     "jeonse_ratio_pct": 69.1,
-     "median_man": 60750.0,
-     "count": 464
+     "gap_man": 17300.0,
+     "jeonse_ratio_pct": 72.2,
+     "median_man": 62300.0,
+     "count": 385
     },
     {
      "name": "안산 상록구",
      "gap_man": 19000.0,
      "jeonse_ratio_pct": 61.2,
      "median_man": 49000.0,
-     "count": 161
+     "count": 164
+    },
+    {
+     "name": "수원 장안구",
+     "gap_man": 19500.0,
+     "jeonse_ratio_pct": 68.3,
+     "median_man": 61500.0,
+     "count": 469
     },
     {
      "name": "시흥시",
      "gap_man": 19800.0,
      "jeonse_ratio_pct": 63.9,
      "median_man": 54800.0,
-     "count": 1047
-    },
-    {
-     "name": "용인 기흥구",
-     "gap_man": 19900.0,
-     "jeonse_ratio_pct": 67.9,
-     "median_man": 61900.0,
-     "count": 1272
+     "count": 1051
     },
     {
      "name": "남양주시",
-     "gap_man": 20000.0,
-     "jeonse_ratio_pct": 60.8,
+     "gap_man": 19900.0,
+     "jeonse_ratio_pct": 61.0,
      "median_man": 51000.0,
-     "count": 2187
+     "count": 2201
+    },
+    {
+     "name": "용인 기흥구",
+     "gap_man": 20000.0,
+     "jeonse_ratio_pct": 67.7,
+     "median_man": 62000.0,
+     "count": 1279
+    },
+    {
+     "name": "수원 권선구",
+     "gap_man": 21800.0,
+     "jeonse_ratio_pct": 62.4,
+     "median_man": 58000.0,
+     "count": 1063
     },
     {
      "name": "부천시",
      "gap_man": 22000.0,
      "jeonse_ratio_pct": 67.2,
      "median_man": 67000.0,
-     "count": 1049
-    },
-    {
-     "name": "수원 권선구",
-     "gap_man": 22000.0,
-     "jeonse_ratio_pct": 62.1,
-     "median_man": 58000.0,
-     "count": 1048
+     "count": 1058
     },
     {
      "name": "고양 덕양구",
      "gap_man": 25000.0,
      "jeonse_ratio_pct": 65.8,
      "median_man": 73000.0,
-     "count": 1011
+     "count": 1019
     },
     {
      "name": "의왕시",
-     "gap_man": 26275.0,
-     "jeonse_ratio_pct": 66.3,
+     "gap_man": 26000.0,
+     "jeonse_ratio_pct": 66.7,
      "median_man": 78000.0,
-     "count": 462
-    },
-    {
-     "name": "수원 영통구",
-     "gap_man": 27700.0,
-     "jeonse_ratio_pct": 66.2,
-     "median_man": 82000.0,
-     "count": 765
+     "count": 463
     },
     {
      "name": "화성시",
      "gap_man": 28500.0,
      "jeonse_ratio_pct": 53.7,
      "median_man": 61500.0,
-     "count": 3148
+     "count": 3171
+    },
+    {
+     "name": "수원 영통구",
+     "gap_man": 28550.0,
+     "jeonse_ratio_pct": 65.4,
+     "median_man": 82550.0,
+     "count": 772
     },
     {
      "name": "수원 팔달구",
@@ -32993,45 +33265,45 @@
     },
     {
      "name": "광명시",
-     "gap_man": 34700.0,
-     "jeonse_ratio_pct": 63.4,
-     "median_man": 94700.0,
-     "count": 353
+     "gap_man": 35000.0,
+     "jeonse_ratio_pct": 63.2,
+     "median_man": 95000.0,
+     "count": 355
     },
     {
      "name": "성남 중원구",
      "gap_man": 35400.0,
      "jeonse_ratio_pct": 60.7,
      "median_man": 90000.0,
-     "count": 202
+     "count": 203
     },
     {
      "name": "안양 동안구",
      "gap_man": 39500.0,
      "jeonse_ratio_pct": 57.1,
      "median_man": 92000.0,
-     "count": 613
+     "count": 615
     },
     {
      "name": "용인 수지구",
-     "gap_man": 44000.0,
-     "jeonse_ratio_pct": 57.7,
-     "median_man": 104000.0,
-     "count": 766
+     "gap_man": 44500.0,
+     "jeonse_ratio_pct": 57.4,
+     "median_man": 104500.0,
+     "count": 777
     },
     {
      "name": "하남시",
      "gap_man": 55000.0,
      "jeonse_ratio_pct": 53.4,
      "median_man": 118000.0,
-     "count": 508
+     "count": 511
     },
     {
      "name": "성남 수정구",
-     "gap_man": 63900.0,
+     "gap_man": 63950.0,
      "jeonse_ratio_pct": 50.0,
-     "median_man": 127900.0,
-     "count": 201
+     "median_man": 127950.0,
+     "count": 200
     },
     {
      "name": "성남 분당구",
@@ -33045,7 +33317,7 @@
      "gap_man": 136000.0,
      "jeonse_ratio_pct": 42.1,
      "median_man": 235000.0,
-     "count": 54
+     "count": 55
     }
    ]
   }
